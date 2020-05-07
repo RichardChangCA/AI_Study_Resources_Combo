@@ -6,7 +6,7 @@
 
 3. Natural Language Processing
 
-4. Computer Vision
+4. Computer Vision: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Computer_Vision.md
 
 5. Reinforcement Learning
 
