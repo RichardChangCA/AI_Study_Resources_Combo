@@ -14,7 +14,7 @@
 
 7. Python
 
-8. Image Segmentation
+8. Image Segmentation: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Image_Segmentation.md
 
 9. Data Structure and Algorithms
 
