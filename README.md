@@ -10,7 +10,7 @@
 
 5. Reinforcement Learning
 
-6. Conventional Machine Learning
+6. Conventional Machine Learning: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Conventional_Machine_Learning.md
 
 7. Python
 
