@@ -10,3 +10,5 @@ Object Detection: sliding window(computationally expensive), region proposals(tr
 
 Mask R-CNN: instance segmentation, joint coordinates: joint object detection, post estimation and instance segmentation(multi-tak loss)
 
+2. Youtube Semantic Segmentation https://www.youtube.com/watch?v=_N7HRnBgoCw
+
