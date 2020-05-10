@@ -12,3 +12,10 @@ Mask R-CNN: instance segmentation, joint coordinates: joint object detection, po
 
 2. Youtube Semantic Segmentation https://www.youtube.com/watch?v=_N7HRnBgoCw
 
+FCN(Fully Convolutional Network): give inputs as any sizes. The number of categories are the number of output channels. argmax scores of all channels pixel-by-pixel. pixel-wise loss function. 
+
+Fully Convolutional DenseNets: use the idea of DenseNet in U-Net.
+
+Fully Conneted Layer needs same input sizes.
+
+SegNet: A deep convolutional encoder-decoder architecture for image segmentation. pooling indices in max unpooling. 
