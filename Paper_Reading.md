@@ -12,17 +12,17 @@ Consider the structure and context of the paper
 
 Several questions during reading papers:
 
-What are the biggest unanswered questions in this field?
+- What are the biggest unanswered questions in this field?
 
-When and why is the result useful?
+- When and why is the result useful?
 
-What were the constraints of the research?
+- What were the constraints of the research?
 
-Are any of the insights transferable to other fields?
+- Are any of the insights transferable to other fields?
 
-Why do some ideas receive wider reach while others fall flat?
+- Why do some ideas receive wider reach while others fall flat?
 
-What are the authors not discussing in the paper?
+- What are the authors not discussing in the paper?
 
 Read both Abstract and Introduction at first.
 
