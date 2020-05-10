@@ -18,4 +18,6 @@
 
 9. Data Structure and Algorithms
 
+10. Paper Reading
+
 <b>continue to update...
