@@ -18,6 +18,6 @@
 
 9. Data Structure and Algorithms
 
-10. Paper Reading
+10. Paper Reading: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Paper_Reading.md
 
 <b>continue to update...
