@@ -19,3 +19,5 @@ Fully Convolutional DenseNets: use the idea of DenseNet in U-Net.
 Fully Conneted Layer needs same input sizes.
 
 SegNet: A deep convolutional encoder-decoder architecture for image segmentation. pooling indices in max unpooling. 
+
+3. Medium, Metrics to Evaluate your Semantic Segmentation Model: https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2 , Pixel Accuracy, Intersection-Over-Union (IoU), Dice Coefficient
