@@ -2,4 +2,4 @@
 
 2. Medium, 5 Pandas tricks put your hardware to better use: https://towardsdatascience.com/please-stop-doing-these-5-things-in-pandas-9fbabea897aa
 
-3. 
+3. Medium, How to Extract Text from Images with Python: https://towardsdatascience.com/how-to-extract-text-from-images-with-python-db9b87fe432b
