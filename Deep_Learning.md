@@ -1,3 +1,15 @@
 1. Medium, Reasons to Choose PyTorch for Deep Learning: https://towardsdatascience.com/reasons-to-choose-pytorch-for-deep-learning-c087e031eaca Deep learning researchers should study both PyTorch & TensorFlow 2.x but focus on only one of them.
 
 2. Medium, Google Just Introduced TensorFlow Developer Certificate Exam: https://towardsdatascience.com/google-just-introduced-tensorflow-developer-certificate-exam-e15c385685b8 ,Tensorflow certificate granted by Google, tensorflow is wildly used in industries, as well as both pytorch and tensorflow are wildly used in academic fields.
+
+3. Medium, 5 Important Changes Coming with TensorFlow 2.0： https://levelup.gitconnected.com/5-important-changes-coming-with-tensorflow-2-0-e6bb172c5fdf，
+
+- start to be more similar with numpy
+
+- with keras
+
+- clean up redundant APIs
+
+- tf.datasets
+
+- can run tf1.x in the env of tf.2.x , there is a srcipt to auto-transfer tf1.x to tf2.x
