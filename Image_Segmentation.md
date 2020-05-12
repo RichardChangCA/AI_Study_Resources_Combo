@@ -1,4 +1,4 @@
-* Codes, Image Segmentation Practice: https://github.com/RichardChangCA/Image_Segmentation_Practice
+\* Codes, Image Segmentation Practice: https://github.com/RichardChangCA/Image_Segmentation_Practice
 
 1. Youtube CS231n Stanford University Lecture 11 Detection and Segmentation: https://www.youtube.com/watch?v=nDPWywWRIRo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=11
 
