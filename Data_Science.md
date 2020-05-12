@@ -82,7 +82,7 @@
 
 24. Medium, 3 distances that every data scientist should know： https://towardsdatascience.com/3-distances-that-every-data-scientist-should-know-59d864e5030a ,Euclidean, Manhatan, Chebyshev distance
 
-25. Medium, 5 Great Data-Science Books For Lifelong Learners https://towardsdatascience.com/5-great-data-science-books-for-lifelong-learners-3a6405a7f890 ,data science, statistical learning, cartoon statistics, algorithms
+25. Medium, 5 Great Data-Science Books For Lifelong Learners https://towardsdatascience.com/5-great-data-science-books-for-lifelong-learners-3a6405a7f890 ,data science, statistical learning, cartoon statistics, algorithms, https://www.pdfdrive.com
 
 
 
