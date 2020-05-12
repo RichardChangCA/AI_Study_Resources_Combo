@@ -1,3 +1,5 @@
+* Codes, Image Segmentation Practice: https://github.com/RichardChangCA/Image_Segmentation_Practice
+
 1. Youtube CS231n Stanford University Lecture 11 Detection and Segmentation: https://www.youtube.com/watch?v=nDPWywWRIRo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=11
 
 FCN: downsampling with upsampling, each pixel has one category, pixel-wise classification, max unpooling: remember the location of max value when downsampling, prevent spacial information lose. Transpose convolution(decovolution(bad name,not inverse convolution), Upconvolution, Fractionally strided convolution, Backward strided convolution): Input gives weight for filter, stride gives ratio between movement in output and input, output contains copies of the filter weighted bt the input and summing at where at overlaps in the output, need to crop some pixeles from output if out of boundary.
