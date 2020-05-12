@@ -12,7 +12,7 @@
 
 6. Conventional Machine Learning: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Conventional_Machine_Learning.md
 
-7. Python
+7. Python: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Python.md
 
 8. Image Segmentation(including medical images knowledge): https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Image_Segmentation.md
 
