@@ -21,3 +21,9 @@ Fully Conneted Layer needs same input sizes.
 SegNet: A deep convolutional encoder-decoder architecture for image segmentation. pooling indices in max unpooling. 
 
 3. Medium, Metrics to Evaluate your Semantic Segmentation Model: https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2 , Pixel Accuracy, Intersection-Over-Union (IoU), Dice Coefficient
+
+4. Medium, DilatedNet — Dilated Convolution (Semantic Segmentation, year 2016)  https://towardsdatascience.com/review-dilated-convolution-semantic-segmentation-9d5a5bd768f5 ,the idea of Dilated convolution is proposed in semantic segmentation, atrous convolution.
+
+5. Medium, DeconvNet: https://towardsdatascience.com/review-deconvnet-unpooling-layer-semantic-segmentation-55cf8a6e380e ,upsampling, deconvolution, two-stage training(first stage for region proposal-object detection, second stage for instance segmentation), segmentation(sparse pixel-wise classification, semantic: crop all person as a kind of person, instance: crop different person as A,B,C... ). deconvolution is not the reverse process of convolution, and it is the fractional stride convolution.
+
+6. Medium, FCN in semantic segmentation: https://towardsdatascience.com/review-fcn-semantic-segmentation-eb8c9b50d2d1 ,deeper layers can extract deeper features but lose the spatial location information of objects in the image. shallow layers have spatial location information. fuse shallow and deep features can combine the spatial location information and object information together to do a better semantic segmentation.
