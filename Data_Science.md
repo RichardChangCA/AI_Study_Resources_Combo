@@ -56,6 +56,11 @@
 
 - Models for Continuous Data
 
+17. Medium, 3 Python Visualization Libraries You MUST Know as A Data Scientist: https://towardsdatascience.com/3-python-visualization-libraries-you-must-know-as-a-data-scientist-8d0cd25e1c73 ,heatmap & pair_plot by matplotlib & seaborn, missing value visualization by matplotlib & missingno, violinplot(combine box-plot and data distribution, more clear: https://towardsdatascience.com/violin-plots-explained-fb1d115e023d )
+
+18. Medium, Top 10 Popular GitHub Repositories to learn about Data Science: https://towardsdatascience.com/top-10-popular-github-repositories-to-learn-about-data-science-4acc7b99c44 ，explore useful resources in these GitHub repos.
+
+19. Medium, Everything you need to become a self-taught Machine Learning Engineer： https://medium.com/@jasoncbenn/everything-you-need-to-become-a-self-taught-machine-learning-engineer-d09bbcdfa631 ,how to self-study ML well.
 
 
 
