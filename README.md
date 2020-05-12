@@ -2,7 +2,7 @@
 
 1. Deep Learning: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Deep_Learning.md
 
-2. Data Science: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Data_Science.md
+2. Data Science & Git: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Data_Science.md
 
 3. Natural Language Processing: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Natural_Language_Processing.md
 
