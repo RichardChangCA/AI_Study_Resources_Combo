@@ -32,6 +32,30 @@
 
 14. Medium, 9 Best YouTube Playlists and Videos — Python for Machine Learning https://medium.com/better-programming/9-best-youtube-playlists-and-videos-python-for-machine-learning-aa3956dcb24a ,for Python and Machine Learning beginners
 
+15. Medium, Machine Learning and Data Science free online courses to do in quarantine： https://towardsdatascience.com/machine-learning-free-online-courses-from-beginner-to-advanced-f50982dce950 ， for beginners to advanced
+
+16. Medium, 4 free maths courses to do in quarantine and level up your Data Science skills: https://towardsdatascience.com/4-free-maths-courses-to-do-in-quarantine-and-level-up-your-data-science-skills-f815daca56f7 ,contents:
+
+- Linear Algebra
+
+- Multivariate Calculus
+
+- Principal Component Analysis, Equations, Functions, and Graphs
+
+- Differentiation and Optimization
+
+- Vectors and Matrices
+
+- Statistics and Probability,The mathematical foundations for machine learning
+
+- Statistics literacy: understand the meaning of statements such as “at a 99% confidence level”, Probability and Bayes Theorem
+
+- Statistical inference
+
+- Priors and Models for Discrete Data
+
+- Models for Continuous Data
+
 
 
 
