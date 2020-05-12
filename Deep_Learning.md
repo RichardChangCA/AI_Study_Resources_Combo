@@ -19,3 +19,5 @@
 5. Medium, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: https://www.coursera.org/lecture/deep-neural-network/exponentially-weighted-averages-duStO ，some optimizers are illustrated well, like adam, RMSprop, learning rate decay, momentum, etc.
 
 6. Medium, Deep Learning using GPU on your MacBook https://towardsdatascience.com/deep-learning-using-gpu-on-your-macbook-c9becba7c43 ,use the GPU on your macbook pro to speed up your deep learning models with keras
+
+7. Medium, Deep Learning Course notebooks worth $2,000 are now open source: https://towardsdatascience.com/deep-learning-course-notebooks-worth-2-000-are-now-open-source-7d6bc759ef47 ,GitHub open source book repo: https://github.com/fastai/fastbook , online courses video: https://course.fast.ai/videos/?lesson=1 , the open source book: Deep Learning for Coders with fastai & PyTorch
