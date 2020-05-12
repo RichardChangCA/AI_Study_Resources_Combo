@@ -62,6 +62,21 @@
 
 19. Medium, Everything you need to become a self-taught Machine Learning Engineer： https://medium.com/@jasoncbenn/everything-you-need-to-become-a-self-taught-machine-learning-engineer-d09bbcdfa631 ,how to self-study ML well.
 
+20. Medium, Getting started with Git and GitHub: the complete beginner’s guide, https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6 , use git to do version control, cooperatie with your parteners, backup your codes and find resources in GitHub
+
+21. Medium, Faster Code with Python Caching: https://levelup.gitconnected.com/faster-code-with-python-caching-8da6e8a92ae9, cache the results which you often get from functions, to speed up your program's running time.
+
+22. Medium, Get More Out of Google Colab: https://medium.com/analytics-vidhya/get-more-out-of-google-colab-5bf9d9519a56
+
+- Mounting your Google Drive
+
+- Uploading and Downloading Files
+
+- Making tuning Hyperparameters Easy with Form Fields
+
+- Running JavaScript and HTML
+
+- Using the Webcam (and turning those images into NP arrays)
 
 
 
