@@ -16,3 +16,5 @@
 
 4. Medium, Image Captioning with Keras, https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8 ,How to Prepare a Photo Caption Dataset for Training a Deep Learning Model, https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/ , cnn+rnn+transfer learning
 
+5. Medium, The Mechanics of Attention Mechanism in Flowcharts: https://towardsdatascience.com/the-mechanics-of-attention-mechanism-f6e9805cca66 ,the attention mechanism in machine translation, attention mechanism can obtain the context of whole original text information to help translate into another language. two version attention: soft(softmax function, focus on a large scope with various weights), hard(max function, only focus on the most important word), soft attention performs better than hard attention in most cases probably because soft attention can be differentiable. the attention for each pair of words can be visualized.
+
