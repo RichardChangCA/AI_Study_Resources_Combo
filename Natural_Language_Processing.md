@@ -14,3 +14,5 @@
 
 - GNMT(Google Neural Machine Translation) — seq2seq with 8-stacked encoder (+bidirection+residual connections) + attention
 
+4. Medium, Image Captioning with Keras, https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8 ,How to Prepare a Photo Caption Dataset for Training a Deep Learning Model, https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/ , cnn+rnn+transfer learning
+
