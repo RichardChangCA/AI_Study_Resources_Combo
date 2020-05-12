@@ -9,3 +9,5 @@
 5. Medium, All the basics of Python classes: https://levelup.gitconnected.com/all-the-basics-of-python-classes-8b07046d2a52 , write your python codes with the object-oriented programming thinking
 
 6. Medium, Memory Management in Python： https://towardsdatascience.com/memory-management-in-python-6bea0c8aecc9 , write your python codes with efficient memory management when your program is huge, (garbage collection) import gc; a = 1; del a; gc.collect()
+
+7. @Decorators in Python, https://medium.com/better-programming/decorators-in-python-72a1d578eac4 ,this article needs object-oriented programming knowledge, @tf.function decorator is used in TensorFlow v2.0. What Are *args and \**kwargs in Python? https://medium.com/better-programming/what-are-args-and-kwargs-in-python-6aaf9e3cad73 , the The Splat Operator \* in python is like the pointer in c/cpp, *args  allows for function calls with variable-length argument lists, \**kwargs create a dictionary whose contents are keyword arguments. In addition, if you want to for loop two list like a = [1,2,3] ; b = [4,5,6] you can use for a_, b_ in zip(a,b): pass; ,assuming len(a) == len(b).
