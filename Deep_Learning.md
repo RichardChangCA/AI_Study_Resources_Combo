@@ -2,7 +2,7 @@
 
 2. Medium, Google Just Introduced TensorFlow Developer Certificate Exam: https://towardsdatascience.com/google-just-introduced-tensorflow-developer-certificate-exam-e15c385685b8 ,Tensorflow certificate granted by Google, tensorflow is wildly used in industries, as well as both pytorch and tensorflow are wildly used in academic fields.
 
-3. Medium, 5 Important Changes Coming with TensorFlow 2.0： https://levelup.gitconnected.com/5-important-changes-coming-with-tensorflow-2-0-e6bb172c5fdf，
+3. Medium, 5 Important Changes Coming with TensorFlow 2.0： https://levelup.gitconnected.com/5-important-changes-coming-with-tensorflow-2-0-e6bb172c5fdf
 
 - start to be more similar with numpy
 
