@@ -13,3 +13,7 @@
 - tf.datasets
 
 - can run tf1.x in the env of tf.2.x , there is a srcipt to auto-transfer tf1.x to tf2.x
+
+4. Medium, Visualising Filters and Feature Maps for Deep Learning: https://towardsdatascience.com/visualising-filters-and-feature-maps-for-deep-learning-d814e13bd671
+
+5. Medium, Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization: https://www.coursera.org/lecture/deep-neural-network/exponentially-weighted-averages-duStO ，some optimizers are illustrated well, like adam, RMSprop, learning rate decay, momentum, etc.
