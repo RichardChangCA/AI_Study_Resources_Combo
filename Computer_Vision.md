@@ -9,3 +9,5 @@ Convolution(1D,2D,3D), Pooling, ResNet, Inception, Transfer Learning, Data Augme
 4. Medium, Implementing a ResNet model from scratch: https://towardsdatascience.com/implementing-a-resnet-model-from-scratch-971be7193718 ，understanding resnet in detail
 
 5. Medium, Face Detection in 10 lines for Beginners： https://towardsdatascience.com/face-detection-in-10-lines-for-beginners-1787aa1d9127 ，face, elbow, mouse detection by opencv lib in python
+
+6. Youtube, Autoencoders - EXPLAINED: https://www.youtube.com/watch?v=7mRfwaGGAPg ,Mask Region based Convolution Neural Networks - EXPLAINED!(mask r-cnn): https://www.youtube.com/watch?v=4tkgOzQ9yyo ,this youtuber(CodeEmporium) explains concepts in a simple way: https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA
