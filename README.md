@@ -2,7 +2,7 @@
 
 1. Deep Learning
 
-2. Data Science
+2. Data Science: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Data_Science.md
 
 3. Natural Language Processing
 
