@@ -37,3 +37,17 @@ SegNet: A deep convolutional encoder-decoder architecture for image segmentation
 10. Medium, DeepLabV3 https://towardsdatascience.com/review-deeplabv3-atrous-convolution-semantic-segmentation-6d818bfd1d74 ,DeepLabV3 do not use CRF. model without atrous conv will lose the information of location when goes deeper. Spatial information is also important for segmentation tasks. Multi-grid atrous rate during convolution. Just some small changes based on DeepLabV2. DeepLabV3+ performs better than DeepLabV3.
 
 11. Medium, ParseNet(2016): https://medium.com/datadriveninvestor/review-parsenet-looking-wider-to-see-better-semantic-segmentation-aa6b6a380990 ,get more global context(globle pooling), normalization using L2 norm for each channel(earlier layers usually have larger values than the later layers, which is probably also the reason why batch normalization works well after that), a learnable scaling factor γ for each channel is also introduced after normalization. ParseNet is used in DeepLabV3 and DeepLabV3+.
+
+12. Medium, The Evolution of Deeplab for Semantic Segmentation: https://towardsdatascience.com/the-evolution-of-deeplab-for-semantic-segmentation-95082b025571 ,DeepLab V1, V2, V3, V3+. three main methods in semantic segmentation: fully convolutional network(FCN), U-Net and DeepLab(last two are commonly used recently). one advantage of FCN(without fully connected layers) is inputs can be any sizes, (the architecure with fully connected layers needs the input size fixed because the number of parameters in fully connected layers is fixed), atrous convolution enlarges the field of view of filters without increasing the number of parameters or the amount of computation. Atrous(hole in English, trous in French) convolution can replace downsampling with upsampling to avoid spatial information loss, evolving from FCN to DeepLabV1.
+
+- Traditional CNN: CNN+fully connected layer. 
+
+- FCN(based on traditional CNN): replace fully connected layers with convolutional layers and pixel-wise loss function. 
+
+- DeepLabV1(based on FCN): replace later convolution layers with atrous convolution + bi-linear interpolation + CRF. 
+
+- DeepLabV2(based on DeepLabV1): add atrous spatial pyramid pooling(ASPP): apply multiple atrous covolution with different sampling rates and fuse together, tackling the problem of scaling objects. 
+
+- DeepLabV3(based on DeepLabV2): encoder-decoder with atrous separable convolution(computational efficiency) to capture shaper object boundaries.  
+
+- DeepLabV3+(based on DeepLabV3): changed encoder from ResNet-101 to Aligned Xception. The decoder combines shallow and deep  feature maps of the encoder together.
