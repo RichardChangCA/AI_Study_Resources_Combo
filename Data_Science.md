@@ -28,6 +28,12 @@
 
 12. Medium, The Next Level of Data Visualization in Python https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e ，plotly is an interative visualization tool and performs better than matplotlib.
 
+13. Medium, Google Drive + Google Colab + GitHub; Don’t Just Read, Do It! : https://towardsdatascience.com/google-drive-google-colab-github-dont-just-read-do-it-5554d5824228 ,they can work together.
+
+14. Medium, 9 Best YouTube Playlists and Videos — Python for Machine Learning https://medium.com/better-programming/9-best-youtube-playlists-and-videos-python-for-machine-learning-aa3956dcb24a ,for Python and Machine Learning beginners
+
+
+
 
 
 
