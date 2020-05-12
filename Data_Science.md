@@ -26,6 +26,8 @@
 
 11. Medium, How many tech skills are enough for a data scientist?: https://towardsdatascience.com/most-essential-set-of-skills-for-the-type-of-data-scientist-job-youre-looking-for-44d5f6d23ca3 ,you can build up your model to predict your potential value and extract some useful job marketing information according to this dataset: https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer
 
-12. 
+12. Medium, The Next Level of Data Visualization in Python https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e ，plotly is an interative visualization tool and performs better than matplotlib.
+
+
 
 
