@@ -1,6 +1,6 @@
 # AI_Study_Resources_Combo
 
-1. Deep Learning
+1. Deep Learning: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Deep_Learning.md
 
 2. Data Science: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Data_Science.md
 
