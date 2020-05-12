@@ -21,3 +21,5 @@
 6. Medium, Deep Learning using GPU on your MacBook https://towardsdatascience.com/deep-learning-using-gpu-on-your-macbook-c9becba7c43 ,use the GPU on your macbook pro to speed up your deep learning models with keras
 
 7. Medium, Deep Learning Course notebooks worth $2,000 are now open source: https://towardsdatascience.com/deep-learning-course-notebooks-worth-2-000-are-now-open-source-7d6bc759ef47 ,GitHub open source book repo: https://github.com/fastai/fastbook , online courses video: https://course.fast.ai/videos/?lesson=1 , the open source book: Deep Learning for Coders with fastai & PyTorch
+
+8. Youtube, Why Does Batch Normormalization Work? (C2W3L06): https://www.youtube.com/watch?v=nUUqwaxLnWs , batch normalization can speed up the training process because the covariance shift can shift the mini-batch data distribution into normal distribution(which can represent the whole dataset distribution well), and have "slight" regularization effect because normalization is processed within mini-batch(maybe not representative), which generates a little noise. 
