@@ -1,0 +1,1 @@
+1. Medium, Reasons to Choose PyTorch for Deep Learning: https://towardsdatascience.com/reasons-to-choose-pytorch-for-deep-learning-c087e031eaca Deep learning researchers should study both PyTorch & TensorFlow 2.x but focus on only one of them.
