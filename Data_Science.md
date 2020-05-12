@@ -78,6 +78,8 @@
 
 - Using the Webcam (and turning those images into NP arrays)
 
+23. Medium, Data Engineering 101: Writing Your First Pipeline: https://medium.com/better-programming/data-engineering-101-writing-your-first-pipeline-f19436ba614c , a lot of data engineer and data science jobs need you require the ETL pipeline technology
+
 
 
 
