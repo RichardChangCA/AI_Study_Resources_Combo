@@ -22,5 +22,10 @@
 
 - build up your skillset.
 
+10. Medium, Why we deploy machine learning models with Go — not Python ： https://towardsdatascience.com/why-we-deploy-machine-learning-models-with-go-not-python-a4e35ec16deb， Golang can write machine learning instructures, like docker. You can deloy your models with Golang
+
+11. Medium, How many tech skills are enough for a data scientist?: https://towardsdatascience.com/most-essential-set-of-skills-for-the-type-of-data-scientist-job-youre-looking-for-44d5f6d23ca3 ,you can build up your model to predict your potential value and extract some useful job marketing information according to this dataset: https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer
+
+12. 
 
 
