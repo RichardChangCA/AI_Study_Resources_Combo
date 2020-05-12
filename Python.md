@@ -5,3 +5,7 @@
 3. Medium, How to Extract Text from Images with Python: https://towardsdatascience.com/how-to-extract-text-from-images-with-python-db9b87fe432b
 
 4. Medium, Three Ways to Use the Walrus Operator in Python: https://medium.com/better-programming/three-ways-to-use-the-walrus-operator-in-python-d5550f3a7dd ,maybe this walrus operator can let your codes more efficient. e.g. a=1; if (a:=2) == 2: print("a==2");   := is the walrus operator
+
+5. Medium, All the basics of Python classes: https://levelup.gitconnected.com/all-the-basics-of-python-classes-8b07046d2a52 , write your python codes with the object-oriented programming thinking
+
+6. Medium, Memory Management in Python： https://towardsdatascience.com/memory-management-in-python-6bea0c8aecc9 , write your python codes with efficient memory management when your program is huge, (garbage collection) import gc; a = 1; del a; gc.collect()
