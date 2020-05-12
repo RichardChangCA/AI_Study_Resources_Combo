@@ -84,6 +84,10 @@
 
 25. Medium, 5 Great Data-Science Books For Lifelong Learners https://towardsdatascience.com/5-great-data-science-books-for-lifelong-learners-3a6405a7f890 ,data science, statistical learning, cartoon statistics, algorithms, https://www.pdfdrive.com
 
+26. Medium, Learning One-Hot Encoding in Python the Easy Way: https://towardsdatascience.com/learning-one-hot-encoding-in-python-the-easy-way-665010457ad9 ,feature engineering: one-hot encoding(disadvantages: curse dimensionality)-->without order meaning, Label encoder-->with order meaning. word embedding: with semantical relation. You can simply download some pre-trained word embeddings, like glove etc.(trained by some large datasets, wikipedia), e.g. the distance between woman and queen is shorter than the distance between woman and king by using word embedding.
+
+
+
 
 
 
