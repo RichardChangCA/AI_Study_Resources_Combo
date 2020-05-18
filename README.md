@@ -20,7 +20,7 @@
 
 10. Paper Reading: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Paper_Reading.md
 
-11. Graph Neural Network(GNN)
+11. Graph Neural Networks(GNN): https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Graph_Neural_Networks.md
 
 12. Self-attention Frameworks in Computer Vision
 
