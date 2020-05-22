@@ -19,3 +19,5 @@
 10. Medium, My Favorite New Features in Python 3.8, https://towardsdatascience.com/my-favorite-new-features-in-python-3-8-a95d7a0a31c9 ,walrus operand, function as parameter arguments in the function(add slash “/“ to the end), multiprocessing shared memory, new pickling protocol, improved CPython(Python with C programming language API)
 
 11. Medium, The Future of Code Is in Your Browser, https://onezero.medium.com/the-future-of-code-is-in-your-browser-2c51a08e8ab2 ,cloud-based coding environments like GitHub’s new Codespaces (without environment installation and settings), works entirely in the web browser(Linux, MacOS, Windows, iOS(iPad programming)), each Codespaces environment contains a Dockerfile, co-programming platform with audio and text chat(like Google Docs), direct link: https://github.com/features/codespaces  
+
+12. Medium, Automate These 3 (Boring!!) Excel Tasks with Python! (Process Boring Excel Tasks in Python), https://towardsdatascience.com/automate-these-3-boring-excel-tasks-with-python-666b4ded101b ,Combining Multiple Excel Files, Getting Values from Various Workbooks, Applying Formulas across Workbooks
