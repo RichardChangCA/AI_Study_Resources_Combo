@@ -46,4 +46,9 @@ Convolution(1D,2D,3D), Pooling, ResNet, Inception, Transfer Learning, Data Augme
 
 23. Medium, 5 Awesome Projects to Hone Your Deep Learning Skills, https://towardsdatascience.com/5-awesome-projects-to-hone-your-deep-learning-skills-a2d6252b9b9b ,Implementing a convolutional neural network from scratch, Visual exploration of convolutional networks, Building an API for your deep learning model, Contributing to open source frameworks, Paper reproductions
 
+24. Medium, Image Classification of X-Ray Scans, https://towardsdatascience.com/image-classification-of-x-ray-scans-ffaf970783f9 , VGG, data augmentation, binary classification
+
+25. Medium, Face Identification: Siamese Convolutional Neural Nets, https://medium.com/@mark.s.cleverley/face-identification-siamese-convolutional-neural-nets-b4c66771595c ,Siamese Nets: twinned neural networks to identify whether two inputs are same or not. Suitable for the dataset which has limited images for each identity. Good idea(works well with fine-tuning) but poor result in this article.
+
+
 
