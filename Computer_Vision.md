@@ -50,5 +50,12 @@ Convolution(1D,2D,3D), Pooling, ResNet, Inception, Transfer Learning, Data Augme
 
 25. Medium, Face Identification: Siamese Convolutional Neural Nets, https://medium.com/@mark.s.cleverley/face-identification-siamese-convolutional-neural-nets-b4c66771595c ,Siamese Nets: twinned neural networks to identify whether two inputs are same or not. Suitable for the dataset which has limited images for each identity. Good idea(works well with fine-tuning) but poor result in this article.
 
+26. Medium, Understanding Deep Self-attention Mechanism in Convolution Neural Networks, https://medium.com/datadriveninvestor/understanding-deep-self-attention-mechanism-in-convolution-neural-networks-e8f9c01cb251 ,covariance matrix, SAGAN: self-attention GAN
+
+27. Medium, GAN for unsupervised anomaly detection on X-ray images. https://medium.com/vitalify-asia/gan-for-unsupervised-anomaly-detection-on-x-ray-images-6b9f678ca57d , have some issues in this method(just insights), Bi-directional GAN(encoder, generator, discriminator, discriminate between pair of data X and latent variable Z), AlphaGAN(combining autoencoder),
+
+28. Medium, Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch), https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f ,original data, random noise, generator, discriminator, teach G to trick D and D to beware G, GAN are not stable.
+
+
 
 
