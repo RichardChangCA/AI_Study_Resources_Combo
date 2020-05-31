@@ -56,6 +56,15 @@ Convolution(1D,2D,3D), Pooling, ResNet, Inception, Transfer Learning, Data Augme
 
 28. Medium, Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch), https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f ,original data, random noise, generator, discriminator, teach G to trick D and D to beware G, GAN are not stable.
 
+29. Medium, Guide how to learn and master computer vision in 2020, https://towardsdatascience.com/guide-to-learn-computer-vision-in-2020-36f19d92c934 ,Albumentation(image augmentation framework), catalyst(high-level API on top of pytorch), Kaggle Kernels(30 hours/week free), Google Colab, Courses(Stanford CS231n, Fast.ai), paperswithcode, Kaggle Competitions provide many free open kernels. 
+
+30. Medium, Brain Tumor Segmentation in MRI, https://medium.com/@prajbhumkar/brain-tumor-segmentation-in-mri-abc268faa304 ,MASK R-CNN, transfer learning based on COCO dataset
+
+31. Medium, Analyze Knee MRIs with Python, https://towardsdatascience.com/deep-learning-and-medical-imaging-part-1-explore-the-mrnet-mri-dataset-of-knee-injuries-f519d063165 ,MRNet(knee MRI dataset), MRI scan, interactive plot
+
+32. Medium, How to Train an MRI Classifier with PyTorch, https://medium.com/datadriveninvestor/deep-learning-and-medical-imaging-how-to-provide-an-automatic-diagnosis-f0138ea824d ,model architecture: MRNet, geometric transformations for data augmentation, To take into account the imbalanced nature of the classes, the loss of an example was scaled inversely proportionally to the prevalence of that example’s class in the dataset in order to penalize the error more on the least present examples. Accumulated gradients to prevent fluctuations in the loss.
+
+
 
 
 
