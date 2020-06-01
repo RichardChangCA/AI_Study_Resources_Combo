@@ -64,6 +64,7 @@ Convolution(1D,2D,3D), Pooling, ResNet, Inception, Transfer Learning, Data Augme
 
 32. Medium, How to Train an MRI Classifier with PyTorch, https://medium.com/datadriveninvestor/deep-learning-and-medical-imaging-how-to-provide-an-automatic-diagnosis-f0138ea824d ,model architecture: MRNet, geometric transformations for data augmentation, To take into account the imbalanced nature of the classes, the loss of an example was scaled inversely proportionally to the prevalence of that example’s class in the dataset in order to penalize the error more on the least present examples. Accumulated gradients to prevent fluctuations in the loss.
 
+33. Medium, Interpret What A Deep Learning Model Sees In Medical Imaging, https://medium.com/swlh/deep-learning-and-medical-imaging-interpret-what-the-model-sees-3a1a35b2a323 ,class activation map(weighted sum of the filters)
 
 
 
