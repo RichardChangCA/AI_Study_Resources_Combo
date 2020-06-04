@@ -66,6 +66,8 @@ Convolution(1D,2D,3D), Pooling, ResNet, Inception, Transfer Learning, Data Augme
 
 33. Medium, Interpret What A Deep Learning Model Sees In Medical Imaging, https://medium.com/swlh/deep-learning-and-medical-imaging-interpret-what-the-model-sees-3a1a35b2a323 ,class activation map(weighted sum of the filters)
 
+34. Medium, Build a simple Image Retrieval System with an Autoencoder, https://towardsdatascience.com/build-a-simple-image-retrieval-system-with-an-autoencoder-673a262b7921 ,autoencoder to encoder images + nearest neighbour algorithm to find similar images
+
 
 
 
