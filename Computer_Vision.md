@@ -68,6 +68,13 @@ Convolution(1D,2D,3D), Pooling, ResNet, Inception, Transfer Learning, Data Augme
 
 34. Medium, Build a simple Image Retrieval System with an Autoencoder, https://towardsdatascience.com/build-a-simple-image-retrieval-system-with-an-autoencoder-673a262b7921 ,autoencoder to encoder images + nearest neighbour algorithm to find similar images
 
+35. Medium, Can AI Read Chest X-rays like Radiologists? adversarial network to segmentation. https://towardsdatascience.com/can-machine-learning-read-chest-x-rays-like-radiologists-part-1-7182cf4b87ff ,critic network to distinguish predicted mask from ground truth mask.
+
+36. Medium, Complete Architectural Details of all EfficientNet Models, https://towardsdatascience.com/complete-architectural-details-of-all-efficientnet-models-5fd5b736142 ,baseline, width scaling(channel), depth scaling(layer), resolution scaling, compound scaling(combo)
+
+37. Medium, Bye-bye MobileNet. Hello EfficientNet! https://towardsdatascience.com/bye-bye-mobilenet-hello-efficientnet-9b8ec2cc1a9c EfficientNet Lite model, Tensorflow Lite Package. EfficientNet-Lite-0 is slightly better than MobileNetV2 with slight larger amount of parameters, so slight trade-off model size and accuracy. 
+
+38. Medium, Improving camera quality with Autoencoders, image super-resolution, https://towardsdatascience.com/improving-pewdiepies-camera-quality-with-autoencoders-583635de1cde ,high resolution images—>low resolution images: downscale and then upscale. 
 
 
 
