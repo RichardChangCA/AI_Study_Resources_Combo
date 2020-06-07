@@ -49,3 +49,5 @@ Train/Validation/Test Sets, Bias/Variance, Frobenius norm, L2 Regularization, Dr
 18. Medium, To See Is To Believe: Visualizing The Training Of Machine Learning Models, https://medium.com/skilai/to-see-is-to-believe-visualizing-the-training-of-machine-learning-models-664ef3fe4f49 ,training loss, validation loss, metrics growing plot
 
 19. Medium, Artificial Intelligence vs. Machine Learning vs. Deep Learning(with audio version), https://towardsdatascience.com/artificial-intelligence-vs-machine-learning-vs-deep-learning-2210ba8cc4ac , AI includes ML, which includes DL. Deep Learning do not need feature extraction. 
+
+20. Medium, Here Are My Top Resources to Learn Deep Learning, https://medium.com/datadriveninvestor/my-top-resources-to-learn-deep-learning-a14d1fc8e95a 
