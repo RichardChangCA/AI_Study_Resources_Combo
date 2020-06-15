@@ -51,3 +51,7 @@ Train/Validation/Test Sets, Bias/Variance, Frobenius norm, L2 Regularization, Dr
 19. Medium, Artificial Intelligence vs. Machine Learning vs. Deep Learning(with audio version), https://towardsdatascience.com/artificial-intelligence-vs-machine-learning-vs-deep-learning-2210ba8cc4ac , AI includes ML, which includes DL. Deep Learning do not need feature extraction. 
 
 20. Medium, Here Are My Top Resources to Learn Deep Learning, https://medium.com/datadriveninvestor/my-top-resources-to-learn-deep-learning-a14d1fc8e95a 
+
+21. Medium, How to Prevent Overfitting in Machine Learning Models, https://medium.com/@sksoumik/how-to-prevent-overfitting-in-machine-learning-models-803f23bd9b8 ,reduce network size, cross-validation, add weight regularization(L1, L2-weight decay), removing irrelevant features, adding dropout, data augmentation
+
+22. Medium, Deep Learning: Regularization Techniques to Reduce Overfitting, https://medium.com/analytics-vidhya/deep-learning-regularization-techniques-to-reduce-overfitting-e623c5900d97 L2-regularization, Dropout(only used on training, not used on testing), Data augmentation, Early stopping, Population Based Augmentation(more lite than Google AutoAugment) https://bair.berkeley.edu/blog/2019/06/07/data_aug/ 
