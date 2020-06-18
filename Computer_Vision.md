@@ -76,5 +76,6 @@ Convolution(1D,2D,3D), Pooling, ResNet, Inception, Transfer Learning, Data Augme
 
 38. Medium, Improving camera quality with Autoencoders, image super-resolution, https://towardsdatascience.com/improving-pewdiepies-camera-quality-with-autoencoders-583635de1cde ,high resolution images—>low resolution images: downscale and then upscale. 
 
+39.Medium, Review: SENet — Squeeze-and-Excitation Network, Winner of ILSVRC 2017 (Image Classification), https://towardsdatascience.com/review-senet-squeeze-and-excitation-network-winner-of-ilsvrc-2017-image-classification-a887b98b2883 ,Squeeze-and-Excitation(SE) block that adaptively recalibrate channel-wise feature responses by explicitly modelling interdependencies between channels, Squeeze: Global information Embedding
 
 
