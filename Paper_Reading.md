@@ -36,6 +36,12 @@ Pay closer attention to the methods and results.
 
 3. 2017, Automatic Segmentation and Overall Survival Prediction in Gliomas using Fully Convolutional Neural Network and Texture Analysis, https://arxiv.org/pdf/1712.02066.pdf ,dataset: BraTS 2017. 3D connected component analysis -> discard components below a certain threshold -> reduce false positive. predict the prognosis of subject. FCNN -> extracted features(both low and complex level features) along with age of the subject -> Extreme gradient boosting(XGBOOST) regressor to predict the prognosis of the subject. biomedical images -> similar structure -> small dataset & less epochs enough. weighted cross entropy loss. Pyradiomics: python package -> extract features from medical images.
 
+4. 2019, Random 2.5D U-net for Fully 3D Segmentation, https://arxiv.org/pdf/1910.10398.pdf ,maximum intensity project or the Radon-transform to project 3D volumes into 2D images, learnable reconstruction algorithm to lift 2D projection images to volumetric data. Maximum intensity projection for high sparsity. 
+
+5. 2019, Projection-Based 2.5D U-net Architecture for Fast Volumetric Segmentation, https://arxiv.org/pdf/1902.00347.pdf ,maximum intensity projections from different directions,  the shortage of 3D-Unet: huge memory requirements and long training time, the shortage of 2D-Unet: the loss of connection between the slice images, equidistant angles for projection directions
+
+6. 2016, V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation, https://arxiv.org/pdf/1606.04797.pdf ,data augmentation(random non-linear transformation & histogram matching), reduce resolution by using appropriate stride, residual function in each stage, differentiated Dice with respect to the j-th voxel of the prediction as the loss function to replace to the re-weighted loss, data augmentation: control-points and B-spline interpolation & histogram matching
+
 
 
 
