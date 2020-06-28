@@ -92,7 +92,8 @@
 
 29. Medium, Top skills that separate you from other data scientists, https://medium.com/@shivashishdf.thakur/top-skills-that-will-save-your-data-science-career-in-the-post-covid-era-4dfeab70529b ,Natural Language Processing, Computer Vision, Geospatial Technology, Data Storytelling, Explainable AI, Healthcare Domain.
 
+30. Medium, Why we switched from Flask to FastAPI for production machine learning, https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679 ,native async support, improved latency, low switching cost from Flask
 
-
+31. Medium, The easy way to predict stock prices using machine learning, https://medium.com/@pedrolealdino/the-stupidly-easy-way-to-predict-stock-prices-using-machine-learning-dbb65873cac8 ,R programming language, H2o.ai Framework(also available for Python, automodeling: choose the best model automatically)
 
 
