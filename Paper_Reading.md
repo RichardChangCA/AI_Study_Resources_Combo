@@ -80,3 +80,11 @@ Pay closer attention to the methods and results.
 
 25. 2017, Improved Regularization of Convolutional Neural Networks with Cutout, https://arxiv.org/pdf/1708.04552.pdf ,cutout: regularization technique, randomly masking out square regions of input during training. Initially developed cutout as a targeted approach that specifically removed important visual features from the input of the image, this approach was similar to max-drop, in that we aimed to remove maximally activated features in order to encourage the network to consider less prominent features. Targeted coutout method performed well, but randomly removing regions of a fixed size performed just as well as the targeted approach, without requiring any manipulation of the feature maps. The size of the cutout region is an important hyper-parameter. 
 
+26. 2018, Attention U-Net:Learning Where to Look for the Pancreas, https://arxiv.org/pdf/1804.03999.pdf
+ Models trained with Attention Gate(AGs) implicitly learn to suppress irrelevant regions in an input image while highlighting salient features useful for a specific task.
+ Image-grid based gating that allows attention coefficients to be specific to local regions. This improves performance compared to gating based on a global feature vector.
+ Schematic of the proposed additive attention gate(AG). Input features(x) are scaled with attention coefficients(a) computed in AG. Spatial regions are selected by analysing both the activations and contextual information provided by the gating signal(g) which is collected from a coarser scale. Grid resampling of attention coefficients is done using trilinear interpolation.
+
+27. 2018, UNet++: A Nested U-Net Architecturefor Medical Image Segmentation, https://arxiv.org/pdf/1807.10165.pdf
+ A deeply-supervised(deep supervision --> multi-segmentation loss) encoder-decoder network where the encoder and decoder sub-networks are connected through a series of nested, dense skip pathways(re-designed dense connection).
+ Model pruning at the cost of accuracy degradation.
