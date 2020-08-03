@@ -98,3 +98,11 @@ Soft Normalized Cut Loss(to predict segmentation) + Reconstruction Loss + CRF + 
 
 30. 2019, One Network To Segment Them All: A General, Lightweight System for Accurate 3D Medical Image Segmentation, https://arxiv.org/pdf/1911.01764.pdf
 Multi Planar UNet
+
+31. 2020, Magnetic Resonance Images Based Brain Tumor Segmentation- A critical survey, https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9143045&casa_token=tn4Pcch49YwAAAAA:nn3jQvr0P2o_euf-urcKyoThFUvBU2yf_uhuYTyk63Fy0FWQyDqjpHahN6stYQMiK8WbY8nCPUZ6&tag=1
+Benign: low-grade glioma(LGG), Malignant: high-grade glioma(HGG)
+Medical images security can be achieved with the help of watermarking techniques
+
+32. 2020, Histological Image Classification using Deep Features and Transfer Learning, https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9108668
+CNN models(SqueezeNet, MobileNet, RestNet, DenseNet, one of them) with transfer learning as feature extractor, and then feature selection(Infinite Latent Feature Selection(ILFS):A Probabilistic Latent Graph-Based Ranking Approach), finally SVM classifier
+
