@@ -22,6 +22,6 @@
 
 11. Graph Neural Networks(GNN): https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Graph_Neural_Networks.md
 
-12. Self-attention Frameworks in Computer Vision
+12. Annotation Tools: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Annotation_Tools.md
 
 <b>continue to update...
