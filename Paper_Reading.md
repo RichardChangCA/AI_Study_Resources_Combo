@@ -88,3 +88,13 @@ Pay closer attention to the methods and results.
 27. 2018, UNet++: A Nested U-Net Architecturefor Medical Image Segmentation, https://arxiv.org/pdf/1807.10165.pdf
  A deeply-supervised(deep supervision --> multi-segmentation loss) encoder-decoder network where the encoder and decoder sub-networks are connected through a series of nested, dense skip pathways(re-designed dense connection).
  Model pruning at the cost of accuracy degradation.
+
+28. 2020, Image Segmentation Using Deep Learning:A Survey, https://arxiv.org/pdf/2001.05566.pdf
+Models, Datasets, Evaluations
+
+29. 2017, W-Net: A Deep Model for Fully Unsupervised Image Segmentation, https://arxiv.org/pdf/1711.08506.pdf
+W-shaped network such that it reconstructs the original input images and also predicts a segmentation map without any labeling information.
+Soft Normalized Cut Loss(to predict segmentation) + Reconstruction Loss + CRF + Hierarchical Segmentation
+
+30. 2019, One Network To Segment Them All: A General, Lightweight System for Accurate 3D Medical Image Segmentation, https://arxiv.org/pdf/1911.01764.pdf
+Multi Planar UNet
