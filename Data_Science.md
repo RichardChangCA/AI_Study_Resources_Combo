@@ -96,4 +96,4 @@
 
 31. Medium, The easy way to predict stock prices using machine learning, https://medium.com/@pedrolealdino/the-stupidly-easy-way-to-predict-stock-prices-using-machine-learning-dbb65873cac8 ,R programming language, H2o.ai Framework(also available for Python, automodeling: choose the best model automatically)
 
-
+32. Medium, Training Your Models on Cloud TPUs in 4 Easy Steps on Google Colab , https://medium.com/analytics-vidhya/tpu-training-made-easy-with-colab-3b73b920878f Tensor Processing Unit(TPU), specializes in training deep and computationally expensive ML models. Convert datasets into TFRecords may handle the problem of out-of-memory. 
