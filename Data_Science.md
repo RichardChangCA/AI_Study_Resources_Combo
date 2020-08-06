@@ -96,6 +96,6 @@
 
 31. Medium, The easy way to predict stock prices using machine learning, https://medium.com/@pedrolealdino/the-stupidly-easy-way-to-predict-stock-prices-using-machine-learning-dbb65873cac8 ,R programming language, H2o.ai Framework(also available for Python, automodeling: choose the best model automatically)
 
-32. Medium, Training Your Models on Cloud TPUs in 4 Easy Steps on Google Colab , https://medium.com/analytics-vidhya/tpu-training-made-easy-with-colab-3b73b920878f Tensor Processing Unit(TPU), specializes in training deep and computationally expensive ML models. Convert datasets into TFRecords may handle the problem of out-of-memory. 
+32. Medium, Training Your Models on Cloud TPUs in 4 Easy Steps on Google Colab , https://medium.com/analytics-vidhya/tpu-training-made-easy-with-colab-3b73b920878f Tensor Processing Unit(TPU), specializes in training deep and computationally expensive ML models. Convert datasets into TFRecords may handle the problem of out-of-memory. Use Google Colab TPU official tutorial: https://www.tensorflow.org/guide/tpu
 
 33. Medium, Crash Course in Quantum Computing Using Very Colorful Diagrams, https://towardsdatascience.com/quantum-computing-with-colorful-diagrams-8f7861cfb6da ,Qubits(quantum bits) rather than bits of traditional CS, superposition(both 1 and 0), Schrodinger’s cat, various logic gates. 
