@@ -99,3 +99,5 @@
 32. Medium, Training Your Models on Cloud TPUs in 4 Easy Steps on Google Colab , https://medium.com/analytics-vidhya/tpu-training-made-easy-with-colab-3b73b920878f Tensor Processing Unit(TPU), specializes in training deep and computationally expensive ML models. Convert datasets into TFRecords may handle the problem of out-of-memory. Use Google Colab TPU official tutorial: https://www.tensorflow.org/guide/tpu
 
 33. Medium, Crash Course in Quantum Computing Using Very Colorful Diagrams, https://towardsdatascience.com/quantum-computing-with-colorful-diagrams-8f7861cfb6da ,Qubits(quantum bits) rather than bits of traditional CS, superposition(both 1 and 0), Schrodinger’s cat, various logic gates. 
+
+34. Medium, Extracting Speech from Video using Python, https://towardsdatascience.com/extracting-speech-from-video-using-python-f0ec7e312d38 ,video to audio: MoviePy library, audio to text: Google’s speech recognition library, issues when installing MoviePy: Ffmpeg library
