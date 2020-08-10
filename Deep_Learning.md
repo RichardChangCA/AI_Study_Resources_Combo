@@ -55,3 +55,7 @@ Train/Validation/Test Sets, Bias/Variance, Frobenius norm, L2 Regularization, Dr
 21. Medium, How to Prevent Overfitting in Machine Learning Models, https://medium.com/@sksoumik/how-to-prevent-overfitting-in-machine-learning-models-803f23bd9b8 ,reduce network size, cross-validation, add weight regularization(L1, L2-weight decay), removing irrelevant features, adding dropout, data augmentation
 
 22. Medium, Deep Learning: Regularization Techniques to Reduce Overfitting, https://medium.com/analytics-vidhya/deep-learning-regularization-techniques-to-reduce-overfitting-e623c5900d97 L2-regularization, Dropout(only used on training, not used on testing), Data augmentation, Early stopping, Population Based Augmentation(more lite than Google AutoAugment) https://bair.berkeley.edu/blog/2019/06/07/data_aug/ 
+
+23. Medium, Why I Switch From Keras to PyTorch, https://medium.com/swlh/why-i-switch-from-keras-to-pytorch-e48922f5846 ,PyTorch is Pythonic. The strength of PyTorch: debugging, amount of built-in datasets, performance. The strength of Keras/TensorFlow, class-based and sequential-based modelling(both), portability(Mobile), industry product use case.
+
+24. Medium, Weights and Biases Sweep with Model Timeouts, https://medium.com/@kevin.horecka/weights-and-biases-sweep-with-model-timeouts-f81843e503f8 ,GitHub: https://github.com/kevroy314/wandb-sweeps-timeout ,tracking hyper-parameter tuning.
