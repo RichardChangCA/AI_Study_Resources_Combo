@@ -31,3 +31,5 @@
 10. Medium, Top 10 Books on NLP and Text Analysis, https://medium.com/sciforce/top-10-books-on-nlp-and-text-analysis-8393a9fd3f49 ,Python, NLTK library, statistical NLP, linguistics, R programming language, text mining by tidytext package and others(R),  neural network models, Apache-based NLP(Java for enterprise-grade NLP projects), deep learning, text analysis with python, scikit-learn and TensorFlow. 
 
 11. Medium, Emoticon and Emoji in Text Mining, https://medium.com/towards-artificial-intelligence/emoticon-and-emoji-in-text-mining-7392c49f596a ,transfer emoji and emoticon into meaningful words
+
+12. Medium, GPT-3: The First Artificial General Intelligence? https://towardsdatascience.com/gpt-3-the-first-artificial-general-intelligence-b8d9b38557a1 ,multi-task AI, especially NLP tasks. can generate simple APP according to description.
