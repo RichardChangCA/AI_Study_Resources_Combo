@@ -109,3 +109,7 @@ Convolution(1D,2D,3D), Pooling, ResNet, Inception, Transfer Learning, Data Augme
 
 54. Blog, CatGAN: cat face generation using GANs, https://hackernoon.com/catgan-cat-face-generation-using-gans-f44663586d6b ,use GAN to generate cat face draft image.
 
+55. Medium, Understanding the mAP Evaluation Metric for Object Detection, https://medium.com/@timothycarlen/understanding-the-map-evaluation-metric-for-object-detection-a07fe6962cf3 ,the mean Average Precision or mAP score is calculated by taking the mean AP over all classes and/or over all IoU thresholds, depending on the competition. Code: https://github.com/cocodataset/cocoapi/blob/master/PythonAPI/pycocotools/cocoeval.py
+
+56. Medium, Review: PyramidNet — Deep Pyramidal Residual Networks (Image Classification), https://medium.com/@sh.tsang/review-pyramidnet-deep-pyramidal-residual-networks-image-classification-85a87b60ae78 ,Gradually Increasing the Feature Map Dimensions, New Positions of ReLU and BN, Better Than DenseNet. 
+
