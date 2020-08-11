@@ -25,3 +25,7 @@ Motifs:Subnetworks, negative significance: under-representation, positive signif
 Structural Roles in Networks: Roles(A group of nodes with similar structural properties), Communities/Groups(A group of nodes that are well-connected to each other), Structural equivalence(Nodes u and v are structural equivalent if they have the same relationships to all other nodes). RoIX: Automatic discovery of nodes’ structural roles in networks, Recursive feature extraction(Aggregate features of a node and use them to generate new recursive features).
 
 4. Medium, An Illustrated Guide to Graph Neural Networks(GNN) https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783
+
+5. Medium, Getting the Intuition of Graph Neural Networks, https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d ,graph theory. Translate graph into features or neural networks: Adjacency Matrix, Node Attributes Matrix, Edge Attributes Matrix. Batch Mode(each item is a graph), Single Mode.
+
+6. Medium, Understanding Graph Convolutional Networks for Node Classification, https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b ,use Eigen-decomposition to reduce dimensionality and perform clustering. The ‘magic’ of GCN is that it can learn features representation even without training or back-propagation.
