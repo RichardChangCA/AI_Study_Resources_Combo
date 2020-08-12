@@ -101,3 +101,9 @@
 33. Medium, Crash Course in Quantum Computing Using Very Colorful Diagrams, https://towardsdatascience.com/quantum-computing-with-colorful-diagrams-8f7861cfb6da ,Qubits(quantum bits) rather than bits of traditional CS, superposition(both 1 and 0), Schrodinger’s cat, various logic gates. 
 
 34. Medium, Extracting Speech from Video using Python, https://towardsdatascience.com/extracting-speech-from-video-using-python-f0ec7e312d38 ,video to audio: MoviePy library, audio to text: Google’s speech recognition library, issues when installing MoviePy: Ffmpeg library
+
+35. Medium, Know What Employers are expecting for a Data Scientist Role in-2020, https://towardsdatascience.com/know-what-employers-are-expecting-for-a-data-scientist-role-in-2020-65ad68553cc4 ,Machine Learning, Data Mining, Data Analysis, Statistic, Deep Learning, NLP, CV, Python, R, SQL, SAS, C++, TensorFlow, PyTorch, Keras, Spark, Hadoop, AWS cloud services, Tableau, Power BI.
+
+36. Medium, Powerful EDA (Exploratory Data Analysis) in just two lines of code using Sweetviz, https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34
+
+37. Medium, Every Machine Learning Algorithm Can Be Represented as a Neural Network, https://towardsdatascience.com/every-machine-learning-algorithm-can-be-represented-as-a-neural-network-82dcdfb627e3 deep learning views of machine learning algorithms
