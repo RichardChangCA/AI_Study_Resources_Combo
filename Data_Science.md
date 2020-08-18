@@ -107,3 +107,11 @@
 36. Medium, Powerful EDA (Exploratory Data Analysis) in just two lines of code using Sweetviz, https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34
 
 37. Medium, Every Machine Learning Algorithm Can Be Represented as a Neural Network, https://towardsdatascience.com/every-machine-learning-algorithm-can-be-represented-as-a-neural-network-82dcdfb627e3 deep learning views of machine learning algorithms
+
+38. Medium, Why and How to make a Requirements.txt, https://medium.com/@boscacci/why-and-how-to-make-a-requirements-txt-f329c685181e ,convenient for others to pip install all dependency packages in a new virtual environment
+
+39. Medium, Has VS Code Become the Best IDE for Python?, https://medium.com/young-coder/has-vs-code-become-the-best-ide-for-python-bf0f92d2aef4 ,VS code is a notebook not an IDE, there are some strengths in VS code extensions.
+
+40. Medium, 3 Ways to Make Extra Income as a Data Scientist, https://towardsdatascience.com/3-ways-to-make-extra-income-as-a-data-scientist-eed02749208c ,write blogs, capture educational videos, recommend Affiliate links.
+
+41. Medium, How to prepare for a job interview in AI & Deep Learning, https://medium.com/ai-in-plain-english/how-to-land-a-job-in-ai-deep-learning-1d10449fd60a Deep Learning job interviews book recommendation blog.
