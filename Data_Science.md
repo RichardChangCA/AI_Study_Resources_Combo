@@ -115,3 +115,9 @@
 40. Medium, 3 Ways to Make Extra Income as a Data Scientist, https://towardsdatascience.com/3-ways-to-make-extra-income-as-a-data-scientist-eed02749208c ,write blogs, capture educational videos, recommend Affiliate links.
 
 41. Medium, How to prepare for a job interview in AI & Deep Learning, https://medium.com/ai-in-plain-english/how-to-land-a-job-in-ai-deep-learning-1d10449fd60a Deep Learning job interviews book recommendation blog.
+
+42. Medium, 5 Obscure Python Libraries Every Data Scientist Should Know, https://medium.com/analytics-vidhya/5-obscure-python-libraries-every-data-scientist-should-know-3651bf5d3be3 ,1. Scrapy: build web crawlers that analyze the anatomy of a website and store the extracted information much easier than building it from scratch. 2. Pattern: more high-level web mining and NLP module in Python, data retrieval. 3. Statsmodels and pinguoin: statistic analysis. 4. Mlxtend: extension of sci-kit learn, more automation of common data science tasks like feature extraction and selection etc.. 5. REP: extension of sci-kit learn, more machine learning algorithms. 
+
+43. Medium, Colab on steroids: free GPU instances with SSH access and Visual Studio Code Server, https://towardsdatascience.com/colab-free-gpu-ssh-visual-studio-code-server-36fe1d3c5243 
+
+44. Medium, “How can a beginner data scientist like me gain experience?” https://towardsdatascience.com/how-can-a-beginner-data-scientist-like-me-gain-experience-df2d4d718ad7
