@@ -25,3 +25,5 @@
 13. Medium, New Features in Python 3.9, https://towardsdatascience.com/new-features-in-python39-2529765429fe ,Dictionary Union Operators |, Type Hinting, String Method(removeprefix, removesuffix), new parser(not clear)
 
 14. Medium, Are you writing print() statements to debug your Python code?, https://medium.com/analytics-vidhya/are-you-writing-print-statements-to-debug-your-python-code-690e6ba098e9 ,pdb is a powerful weapon to debug Pythonic code which adds “effectiveness” as there’s no mess of print() statements in your code and “efficiency” as it greatly reduces the time to debug. If you are using some IDEs, this tool is less useful.
+
+15. Medium, 3 Neglected Features in Python 3 That Everyone Should Be Using, https://medium.com/better-programming/3-neglected-features-in-python-3-that-everyone-should-be-using-65cffc96f235 , Enumerations. fstrings format. Data class: a data class is effectively a class whose sole purpose is to literally hold data, the class will have variables that can be accessed and written to, but there is no extra logic on top of it.
