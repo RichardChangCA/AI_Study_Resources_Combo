@@ -121,3 +121,5 @@
 43. Medium, Colab on steroids: free GPU instances with SSH access and Visual Studio Code Server, https://towardsdatascience.com/colab-free-gpu-ssh-visual-studio-code-server-36fe1d3c5243 
 
 44. Medium, “How can a beginner data scientist like me gain experience?” https://towardsdatascience.com/how-can-a-beginner-data-scientist-like-me-gain-experience-df2d4d718ad7
+
+45. Medium, 5x Faster Scikit-Learn Parameter Tuning in 5 Lines of Code, https://towardsdatascience.com/5x-faster-scikit-learn-parameter-tuning-in-5-lines-of-code-be6bdd21833c ,GridSearchCV and RandomizedSearchCV in scikit-learn are brute-force approaches to finding the right hyper-parameter configurations. The tune-sklearn package: cutting edge hyper-parameter tuning techniques.
