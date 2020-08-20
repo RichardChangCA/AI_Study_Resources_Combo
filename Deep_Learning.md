@@ -59,3 +59,5 @@ Train/Validation/Test Sets, Bias/Variance, Frobenius norm, L2 Regularization, Dr
 23. Medium, Why I Switch From Keras to PyTorch, https://medium.com/swlh/why-i-switch-from-keras-to-pytorch-e48922f5846 ,PyTorch is Pythonic. The strength of PyTorch: debugging, amount of built-in datasets, performance. The strength of Keras/TensorFlow, class-based and sequential-based modelling(both), portability(Mobile), industry product use case.
 
 24. Medium, Weights and Biases Sweep with Model Timeouts, https://medium.com/@kevin.horecka/weights-and-biases-sweep-with-model-timeouts-f81843e503f8 ,GitHub: https://github.com/kevroy314/wandb-sweeps-timeout ,tracking hyper-parameter tuning.
+
+25. Medium, Multi-Label Image Classification with Neural Network | Keras, https://towardsdatascience.com/multi-label-image-classification-with-neural-network-keras-ddc1ab1afede ,activation function: replace softmax with sigmoid, loss function: from categorical_crossentropy to binary_crossentropy, data imbalanced problem.
