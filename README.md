@@ -24,4 +24,6 @@
 
 12. Annotation Tools: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Annotation_Tools.md
 
+13. Linux: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Linux.md
+
 <b>continue to update...
