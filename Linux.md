@@ -1,0 +1,1 @@
+1. Mount Physical Storage Disk, How To Create RAID Arrays with mdadm on Ubuntu 18.04, https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-ubuntu-18-04
