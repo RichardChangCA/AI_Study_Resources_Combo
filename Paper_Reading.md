@@ -106,3 +106,11 @@ Medical images security can be achieved with the help of watermarking techniques
 32. 2020, Histological Image Classification using Deep Features and Transfer Learning, https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9108668
 CNN models(SqueezeNet, MobileNet, RestNet, DenseNet, one of them) with transfer learning as feature extractor, and then feature selection(Infinite Latent Feature Selection(ILFS):A Probabilistic Latent Graph-Based Ranking Approach), finally SVM classifier
 
+33. Paper, 2019, EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks, https://arxiv.org/pdf/1905.11946.pdf
+systematically study model scaling and identify that carefully balancing network depth, width, and resolution can lead to better performance.
+use neural architecture search(NAS) to design a new baseline network and scale it up to obtain a family of models, called EfficientNets.
+proposed compound scaling method that uniformly scales all three dimensions with a fixed ratio.
+the compound scaling method makes sense because if the input image is bigger, then the network needs more layers to increase the receptive field and more channels to capture more fine-grained patterns on the bigger image.
+the effectiveness of model scaling heavily depends on the baseline network; use neural architecture search(NAS) to develop a new baseline network, and scale it up to obtain a family of models, called EfficientNets.
+Empirically observe that diferent scaling dimensions are not independent. Intuitively, for higher resolution images, we should increase network depth, such that the larger receptive fields can help capture similar features that include more pixels in bigger images. Correspondingly, we should also increase network width when resolution is higher, in order to capture more fine-grained patterns with more pixels in high resolution images. These intuitions suggest that we need to coordinate and balance different scaling dimensions rather than conventional single-dimension scaling.
+
