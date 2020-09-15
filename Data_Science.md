@@ -123,3 +123,9 @@
 44. Medium, “How can a beginner data scientist like me gain experience?” https://towardsdatascience.com/how-can-a-beginner-data-scientist-like-me-gain-experience-df2d4d718ad7
 
 45. Medium, 5x Faster Scikit-Learn Parameter Tuning in 5 Lines of Code, https://towardsdatascience.com/5x-faster-scikit-learn-parameter-tuning-in-5-lines-of-code-be6bdd21833c ,GridSearchCV and RandomizedSearchCV in scikit-learn are brute-force approaches to finding the right hyper-parameter configurations. The tune-sklearn package: cutting edge hyper-parameter tuning techniques.
+
+46. Medium, Water Quality Prediction via DOC (Dissolved Organic Carbon) in the Swiss Rhine https://medium.com/techlabsms/water-quality-prediction-via-doc-dissolved-organic-carbon-in-the-swiss-rhine-48fb01055957 ,the continuous flow of rivers makes it hard to predict water quality. Water conditions can vary heavily within a day. Four Models: Fastai, CatBoost, XGBoost, LightGBM. GitHub repo: https://github.com/techlabsms/project-ws-19-11-Fruehwarnsystem_Gewaesserqualitaet
+
+47. Medium, Predicting water quality with Neural Nets and Boosted Decision Trees, https://blog.orikami.nl/predicting-water-quality-with-neural-nets-and-boosted-decision-trees-fc4c2c3523ae ,handle missing values, time-series analysis(RNNs), Gradient Boosted Regression Decision Tree.
+
+48. R Tutorial: https://www.statmethods.net/r-tutorial/index.html
