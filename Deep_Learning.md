@@ -64,3 +64,8 @@ Train/Validation/Test Sets, Bias/Variance, Frobenius norm, L2 Regularization, Dr
 
 26. Blog, A Beginner's guide to Deep Learning based Semantic Segmentation using Keras, https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html
 SegNet: does not have any skip connections, no learnable parameters are used for upsampling, max unpooling(use position from pooling layer)
+
+27. Blog, Learning through Auxiliary Tasks, https://vivien000.github.io/blog/journal/learning-though-auxiliary_tasks.html ,auxiliary learning tasks performed during training: one or several primary tasks, one or several auxiliary tasks; auxiliary learning tasks considered when assessing performance: primary tasks. Leveraging auxiliary tasks is an elegant way to improve learning, especially in the case of supervised learning with too few labelled examples or reinforcement learning with sparse rewards. However, auxiliary tasks may sometimes hurt the performance on the primary task(negative transfer).
+
+28. Blog, A Beginner's guide to Deep Learning based Semantic Segmentation using Keras, https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html
+SegNet: does not have any skip connections, no learnable parameters are used for upsampling, max unpooling(use position from pooling layer)
