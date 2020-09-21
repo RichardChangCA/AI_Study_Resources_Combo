@@ -129,3 +129,5 @@
 47. Medium, Predicting water quality with Neural Nets and Boosted Decision Trees, https://blog.orikami.nl/predicting-water-quality-with-neural-nets-and-boosted-decision-trees-fc4c2c3523ae ,handle missing values, time-series analysis(RNNs), Gradient Boosted Regression Decision Tree.
 
 48. R Tutorial: https://www.statmethods.net/r-tutorial/index.html
+
+49. Medium, Knowledge Representation and Reasoning, https://medium.com/brandons-computer-science-notes/knowledge-representation-and-reasoning-c7d441049715
