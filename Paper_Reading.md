@@ -124,3 +124,6 @@ Empirically observe that diferent scaling dimensions are not independent. Intuit
 
 38. 2016, SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation, https://arxiv.org/pdf/1511.00561.pdf ,the decoder uses pooling indices computed in the max-pooling step of the corresponding encoder to perform non-linear upsampling(improves boundary delineation). 
 
+39. 2017, Pyramid Scene Parsing Network, https://arxiv.org/pdf/1612.01105.pdf ,incorporate suitable global features, the local and global clues together make the final prediction more reliable. Global average pooling is a good baseline model as the global contextual prior, which is a commonly used in image classification tasks. 
+
+
