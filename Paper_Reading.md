@@ -120,3 +120,7 @@ Empirically observe that diferent scaling dimensions are not independent. Intuit
 
 36. 2020, RTSEG: REAL-TIME SEMANTIC SEGMENTATION COMPARATIVE STUDY, https://arxiv.org/pdf/1803.02758.pdf ,various encoder and decoder combination comparison, decoders: SkipNet, UNet, Dialation Frontend.
 
+37. 2016, ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation , https://arxiv.org/pdf/1606.02147.pdf ,ENet(Efficient Neural Network), SegNet saves indices of elements chosen in max pooling layers. Early downsampling: early stages of the network, which are often the most expensive by far. 
+
+38. 2016, SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation, https://arxiv.org/pdf/1511.00561.pdf ,the decoder uses pooling indices computed in the max-pooling step of the corresponding encoder to perform non-linear upsampling(improves boundary delineation). 
+
