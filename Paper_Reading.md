@@ -138,5 +138,5 @@ Empirically observe that diferent scaling dimensions are not independent. Intuit
 
 45. 2016, Speeding up Semantic Segmentation for Autonomous Driving(SQNet), https://openreview.net/pdf?id=S1uHiFyyg ,ELU has a mean activation of 0, thereby avoiding any bias shift effect: in ReLU networks, units will typically have a non-zero mean activation, thus they will act as additional bias unit for units in the next layer. By enabling units to have zero mean, this bias shift effect is reduced, which makes it easier for units to focus solely on actual information processing. This could otherwise only be achieved by using batch normalization, which would increase the computational cost of the network by adding specific layers to perform this operation. 
 
-2015, Fully Convolutional Networks for Semantic Segmentation(FCN), https://arxiv.org/pdf/1411.4038.pdf ,patch-wise training
+46. 2015, Fully Convolutional Networks for Semantic Segmentation(FCN), https://arxiv.org/pdf/1411.4038.pdf ,patch-wise training
 
