@@ -140,3 +140,6 @@ Empirically observe that diferent scaling dimensions are not independent. Intuit
 
 46. 2015, Fully Convolutional Networks for Semantic Segmentation(FCN), https://arxiv.org/pdf/1411.4038.pdf ,patch-wise training
 
+47. 2018, BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation, https://arxiv.org/pdf/1808.00897.pdf ,design a spatial path with a small stride to preserve the spatial information and generate high-resolution features, a context path with a fast downsampling strategy is employed to obtain sufficient receptive field, a new feature fusion module to combine features efficiently. For spatial path, we stack only three convolution layers to obtain the 1/8 feature map, which retains affluent spatial details. In respect of context path, we append a global average pooling layer on the tail of Xception, where the receptive field is the maximum of the backbone network. The output feature of spatial path is low level, while the output feature of context path is high level, therefore, we propose a specific feature fusion module to fuse these features. 
+
+
