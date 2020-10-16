@@ -35,3 +35,5 @@
 12. Medium, GPT-3: The First Artificial General Intelligence? https://towardsdatascience.com/gpt-3-the-first-artificial-general-intelligence-b8d9b38557a1 ,multi-task AI, especially NLP tasks. can generate simple APP according to description.
 
 13. Medium, 5 NLP Libraries Everyone Should Know, https://towardsdatascience.com/5-nlp-libraries-everyone-should-know-4f13f5263908 ,to simplify text preprocessing, spaCy(comparatively faster because Cython support), NLTK, Transformers, Gensim: identify semantic similarity between two documents through vector space modelling and topic modelling toolkit, Stanza: SOTA and on top of PyTorch library which supports GPU. Foundations of Statistical Natural Language Processing book source: https://nlp.stanford.edu/fsnlp/ 
+
+14. Medium, NLP with CNNs, https://towardsdatascience.com/nlp-with-cnns-a6aa743bdc1e ,one word is a word vector, several words can be concatenated together and then do convolutions in 2d.
