@@ -133,3 +133,13 @@
 49. Medium, Knowledge Representation and Reasoning, https://medium.com/brandons-computer-science-notes/knowledge-representation-and-reasoning-c7d441049715
 
 50. Medium, How to use PySpark on your computer, https://towardsdatascience.com/how-to-use-pyspark-on-your-computer-9c7180075617
+
+51. Medium, Three Pandas Functions Every Data Engineer Who Uses Python Should Know, https://medium.com/swlh/five-pandas-functions-every-data-engineer-who-uses-python-should-know-c27cbbda927b , Query, df.memory_usage, Database —> pd.read_sql —> Pandas.DataFrame —> pd.to_sql —> Database.
+
+52. Medium, Dash is an ideal Python based front-end for your Databricks Spark Backend, https://medium.com/plotly/dash-is-an-ideal-front-end-for-your-databricks-spark-backend-212ee3cae6cc ,Enterprise version. 
+
+53. Medium, Dash is React for Python, R, and Julia, https://medium.com/plotly/dash-is-react-for-python-r-and-julia-c75822d1cc24 
+
+54. Medium, 9 Scikit-Learn Tips for Data Scientist, https://medium.com/@simonprdhm/9-scikit-learn-tips-for-data-scientist-2a84ffb385ba , Use make_column_transformer to apply different preprocessing to different columns. Select columns using make_column_selector with make_columns_transformer. Use Pipeline, Pipeline chains together multiple preprocessing steps, the output of each step is used as input to the next step, is makes it easy to apply the same preprocessing to train and test. Use grid search in the entire pipeline to find optimal tuning parameters. During using train_test_split for imbalanced dataset, be sure to set stratify=y so that class proportions are preserved when splitting. Write own function to do feature engineering in the pipeline. 
+
+55. Medium, How to Get Started with PySpark, https://towardsdatascience.com/how-to-get-started-with-pyspark-1adc142456ec 
