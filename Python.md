@@ -29,3 +29,5 @@
 15. Medium, 3 Neglected Features in Python 3 That Everyone Should Be Using, https://medium.com/better-programming/3-neglected-features-in-python-3-that-everyone-should-be-using-65cffc96f235 , Enumerations. fstrings format. Data class: a data class is effectively a class whose sole purpose is to literally hold data, the class will have variables that can be accessed and written to, but there is no extra logic on top of it.
 
 16. Medium, Python 3.9, https://towardsdatascience.com/python-3-9-9c2ce1332eb4 ,dictionary union: a|b
+
+17. Medium, Python Decorators — 5 Advanced Features to Know, https://medium.com/better-programming/python-decorators-5-advanced-features-to-know-17dd9be7517b ,1. Support different function signatures, 2. Wrap the decorated function, 3. Define decorators with arguments, 4. Multiple decorators, 5. Class-based decorators
