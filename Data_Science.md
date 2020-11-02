@@ -147,3 +147,9 @@
 56. Medium, How to handle Missing Data, https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4 ,for missing data at random, it is safe to remove. Drop variables if the data is missing for more than 60% observations but only if that variable is insignificant. One disadvantage is that mean imputation reduces variance in the dataset. Missing values can be treated as a separate category by itself, we can create another category for the missing values and use them as a different level, this is the simplest method. The accuracy of KNN can be severely degraded with high-dimentional data because there is little difference between the nearest and farthest neighbor.
 
 57. Medium, Multiple Imputation: a Better Way to Fill NAs,  https://medium.com/analytics-vidhya/multiple-imputation-a-better-way-to-fill-nas-a8b9ec811e1f
+
+58. Medium, PyCaret 2.2 is here — What’s new? https://towardsdatascience.com/pycaret-2-2-is-here-whats-new-ad7612ca63b ,PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. It is an end-to-end machine learning and model management tool that speeds up the machine learning experiment cycle and makes you more productive.
+
+59. Medium, PySpark Rendezvous of Python, SQL, Spark, and Distributed Computing making Machine Learning on Big Data possible, https://towardsdatascience.com/pyspark-f037256c5e3 ,The major difference between Pandas and Pyspark dataframe is that Pandas brings the complete data in the memory of one computer where it is run, Pyspark dataframe works with multiple computers in a cluster (distributed computing) and distributes data processing to memories of those computers. The biggest value addition in Pyspark is the parallel processing of a huge dataset on more than one computer.
+
+60. Medium, Build an Interactive, Modern Dashboard With Dash, https://medium.com/better-programming/build-an-interactive-modern-dashboard-using-dash-ab6b34cb515
