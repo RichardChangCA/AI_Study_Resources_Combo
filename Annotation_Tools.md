@@ -18,4 +18,10 @@ Two more image segmentation annotation tools:
 
 6. ITK-SNAP(free, medical segmentation annotation tool), http://www.itksnap.org/pmwiki/pmwiki.php
 
+ITK-SNAP User Training(manual segmentation): http://www.itksnap.org/pmwiki/uploads/Train/RSNA2016-Manual-Guido-Final.pdf
+
+ITK-SNAP User Training(Semi-Automatic Segmentation): http://www.itksnap.org/pmwiki/uploads/Train/RSNA2016-Auto-Paul-Final.pdf
+
+RSNA 2016 ITK-SNAP course: http://www.itksnap.org/pmwiki/pmwiki.php?n=Train.RSNA2016
+
 7. Amira(free trial), https://www.thermofisher.com/ca/en/home/industrial/electron-microscopy/electron-microscopy-instruments-workflow-solutions/3d-visualization-analysis-software/amira-life-sciences-biomedical.html
