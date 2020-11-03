@@ -4,7 +4,7 @@ Official website of Anolytics: https://www.anolytics.ai/solutions/healthcare/ (t
 
 2. VGG Image Annotator (free) http://www.robots.ox.ac.uk/~vgg/software/via/ (online open annotation tool, may not be suitable for segmentation annotation)
 
-3. LabelMe (free) http://labelme.csail.mit.edu/Release3.0/ your images may be public after using this tool
+3. LabelMe (free) http://labelme.csail.mit.edu/Release3.0/
 
 LabelMe Instruction: https://awkvect.com/data-annotation-tool-analysis-how-to-use-labelme/
 
