@@ -146,4 +146,6 @@ Empirically observe that diferent scaling dimensions are not independent. Intuit
 
 49. 2019, A DEEP GRADIENT BOOSTING NETWORK FOR OPTIC DISC AND CUP SEGMENTATION, https://arxiv.org/pdf/1911.01648.pdf ,To make use of spatial details and contain rich semantic information, making predictions on multiple levels of features, the final outputs are obtained by element-wise summation. In multiple prediction branches design, these branches are independent, which limits the learning capacity of the segmentation model. Our BoostNet is designed for pixel-level classification which treats the inner sub-networks as weaker learners while BoostCNN is proposed for image-level classification which treats the classification models after different training iterations or trained with different inputs as weaker learners.
 
+50. (GCN)2017, SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS, https://arxiv.org/pdf/1609.02907.pdf ,
+
 
