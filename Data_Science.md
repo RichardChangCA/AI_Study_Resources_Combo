@@ -155,3 +155,7 @@
 60. Medium, Build an Interactive, Modern Dashboard With Dash, https://medium.com/better-programming/build-an-interactive-modern-dashboard-using-dash-ab6b34cb515
 
 61. Medium, 5 YouTubers Data Scientists And ML Engineers Should Subscribe To, https://towardsdatascience.com/5-youtubers-data-scientists-and-ml-engineers-should-subscribe-to-e5bf5e2e9167 ,Data Science basic, Data Scientist career path, Paper illustration, AI-based real world projects, etc.
+
+62. Medium, 5 YouTubers Data Scientists And ML Engineers Should Subscribe To, https://towardsdatascience.com/5-youtubers-data-scientists-and-ml-engineers-should-subscribe-to-e5bf5e2e9167 ,Data Science basic, Data Scientist career path, Paper illustration, AI-based real world projects, etc.
+
+63. Medium, The Hitchhiker’s Guide to Feature Extraction, https://towardsdatascience.com/the-hitchhikers-guide-to-feature-extraction-b4c157e96631
