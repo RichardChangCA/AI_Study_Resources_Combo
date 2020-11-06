@@ -72,4 +72,4 @@ SegNet: does not have any skip connections, no learnable parameters are used for
 
 29. Medium, 5 YouTubers Data Scientists And ML Engineers Should Subscribe To, https://towardsdatascience.com/5-youtubers-data-scientists-and-ml-engineers-should-subscribe-to-e5bf5e2e9167 ,Data Science basic, Data Scientist career path, Paper illustration, AI-based real world projects, etc.
 
-Medium, The Hitchhiker’s Guide to Feature Extraction, https://towardsdatascience.com/the-hitchhikers-guide-to-feature-extraction-b4c157e96631
+30. Medium, The Hitchhiker’s Guide to Feature Extraction, https://towardsdatascience.com/the-hitchhikers-guide-to-feature-extraction-b4c157e96631
