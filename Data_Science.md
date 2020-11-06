@@ -153,3 +153,5 @@
 59. Medium, PySpark Rendezvous of Python, SQL, Spark, and Distributed Computing making Machine Learning on Big Data possible, https://towardsdatascience.com/pyspark-f037256c5e3 ,The major difference between Pandas and Pyspark dataframe is that Pandas brings the complete data in the memory of one computer where it is run, Pyspark dataframe works with multiple computers in a cluster (distributed computing) and distributes data processing to memories of those computers. The biggest value addition in Pyspark is the parallel processing of a huge dataset on more than one computer.
 
 60. Medium, Build an Interactive, Modern Dashboard With Dash, https://medium.com/better-programming/build-an-interactive-modern-dashboard-using-dash-ab6b34cb515
+
+61. Medium, 5 YouTubers Data Scientists And ML Engineers Should Subscribe To, https://towardsdatascience.com/5-youtubers-data-scientists-and-ml-engineers-should-subscribe-to-e5bf5e2e9167 ,Data Science basic, Data Scientist career path, Paper illustration, AI-based real world projects, etc.
