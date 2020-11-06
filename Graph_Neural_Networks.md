@@ -37,3 +37,5 @@ Structural Roles in Networks: Roles(A group of nodes with similar structural pro
 9. Paper 2017, SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS, https://arxiv.org/pdf/1609.02907.pdf ,
 
 10. Blog, Laplacian Regularized Least Squares(semi-supervised learning), https://www.futurelearn.com/courses/advanced-machine-learning/0/steps/49579 ,
+
+11. Medium, Facebook’s PyGraph is an Open Source Framework for Capturing Knowledge in Large Graphs, https://medium.com/dataseries/facebooks-pygraph-is-an-open-source-framework-for-capturing-knowledge-in-large-graphs-b52c0fb902e8 ,graph partitioning(does not fully load into memory), multi-threaded computation, distributed execution.
