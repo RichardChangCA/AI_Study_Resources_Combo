@@ -69,3 +69,7 @@ SegNet: does not have any skip connections, no learnable parameters are used for
 
 28. Blog, A Beginner's guide to Deep Learning based Semantic Segmentation using Keras, https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html
 SegNet: does not have any skip connections, no learnable parameters are used for upsampling, max unpooling(use position from pooling layer)
+
+29. Medium, 5 YouTubers Data Scientists And ML Engineers Should Subscribe To, https://towardsdatascience.com/5-youtubers-data-scientists-and-ml-engineers-should-subscribe-to-e5bf5e2e9167 ,Data Science basic, Data Scientist career path, Paper illustration, AI-based real world projects, etc.
+
+Medium, The Hitchhiker’s Guide to Feature Extraction, https://towardsdatascience.com/the-hitchhikers-guide-to-feature-extraction-b4c157e96631
