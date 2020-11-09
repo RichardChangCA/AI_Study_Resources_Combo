@@ -159,3 +159,5 @@
 62. Medium, 5 YouTubers Data Scientists And ML Engineers Should Subscribe To, https://towardsdatascience.com/5-youtubers-data-scientists-and-ml-engineers-should-subscribe-to-e5bf5e2e9167 ,Data Science basic, Data Scientist career path, Paper illustration, AI-based real world projects, etc.
 
 63. Medium, The Hitchhiker’s Guide to Feature Extraction, https://towardsdatascience.com/the-hitchhikers-guide-to-feature-extraction-b4c157e96631
+
+64. Medium, Top 3 Methods for Handling Skewed Data, https://towardsdatascience.com/top-3-methods-for-handling-skewed-data-1334e0debf45 log transform, etc.
