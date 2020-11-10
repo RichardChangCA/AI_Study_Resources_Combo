@@ -148,4 +148,5 @@ Empirically observe that diferent scaling dimensions are not independent. Intuit
 
 50. (GCN)2017, SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS, https://arxiv.org/pdf/1609.02907.pdf ,
 
+51. 2020, DoubleU-Net: A Deep Convolutional Neural Network for Medical Image Segmentation, https://ieeexplore.ieee.org/document/9183321 , https://arxiv.org/pdf/2006.04868.pdf ,GitHub: https://github.com/DebeshJha/2020-CBMS-DoubleU-Net
 
