@@ -26,4 +26,6 @@
 
 13. Linux: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Linux.md
 
+14. DevOps: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/DevOps.md
+
 <b>continue to update...
