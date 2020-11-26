@@ -173,3 +173,7 @@
 69. Medium, Multi-Class Imbalance， https://towardsdatascience.com/multi-class-imbalance-154ef2b15816
 
 70. Medium, Using Docker and PySpark, https://levelup.gitconnected.com/using-docker-and-pyspark-134cd4cab867 ,PySpark can use SQL-like functions.
+
+71. Medium, 4 Tips to Boost Your Data Science Project Presentation, https://towardsdatascience.com/4-tips-to-boost-your-data-science-project-presentation-9cc3a690b9fd ,Understand your machine learning models, keep your analytics concise, explain why do you choose those features, prepare both powerpoint slides and Jupyter Notebook, 
+
+72. Medium, Two Tools Every Data Scientist Should Use for Their Next ML Project, https://medium.com/gsi-technology/two-tools-every-data-scientist-should-use-for-their-next-ml-project-fa4fce5cf868 ,The main role of Weights and Biases is tracking the realtime performance of model variations within your project. Uber’s Manifold is an open-source long-term project that aims to provide a model-agnostic visual debugging tool for machine learning. Using the Manifold tool you can then visually evaluate how your different models are performing on the same data. In my case, this was very helpful for building the ensemble because it allowed for me to understand which models performed where, and which data clusters were the hardest for the models to classify. 
