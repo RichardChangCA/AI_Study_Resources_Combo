@@ -71,3 +71,7 @@ SegNet: does not have any skip connections, no learnable parameters are used for
 SegNet: does not have any skip connections, no learnable parameters are used for upsampling, max unpooling(use position from pooling layer)
 
 29. Medium, Why Deep Learning Ensembles Outperform Bayesian Neural Networks, https://medium.com/swlh/why-deep-learning-ensembles-outperform-bayesian-neural-networks-dba2cd34da24 ,Different initializations of a network will cause a model to reach and get stuck at different modes (peaks). Ensembles are able to learn from multiple modes, thus improve their performance.
+
+30. Medium, Scalable Deep Learning on Parallel and Distributed Infrastructures, https://towardsdatascience.com/scalable-deep-learning-on-parallel-and-distributed-infrastructures-e5fb4a956bef
+
+31. Medium, Train a Neural Network on multi-GPU with TensorFlow, https://towardsdatascience.com/train-a-neural-network-on-multi-gpu-with-tensorflow-42fa5f51b8af ,tf.distribute.MirroredStrategy()
