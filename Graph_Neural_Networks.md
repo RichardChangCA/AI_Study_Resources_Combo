@@ -39,3 +39,13 @@ Structural Roles in Networks: Roles(A group of nodes with similar structural pro
 10. Blog, Laplacian Regularized Least Squares(semi-supervised learning), https://www.futurelearn.com/courses/advanced-machine-learning/0/steps/49579 ,
 
 11. Medium, Facebook’s PyGraph is an Open Source Framework for Capturing Knowledge in Large Graphs, https://medium.com/dataseries/facebooks-pygraph-is-an-open-source-framework-for-capturing-knowledge-in-large-graphs-b52c0fb902e8 ,graph partitioning(does not fully load into memory), multi-threaded computation, distributed execution.
+
+12. Medium, Drug Discovery with Graph Neural Networks — part 1, https://towardsdatascience.com/drug-discovery-with-graph-neural-networks-part-1-1011713185eb ,Fingerprints is a binary vector where each bit represents whether a certain substructure of the molecule is present or not. It is usually quite long and might fail to incorporate some structural information such as chirality. Predict the solubility of a molecule. (Regression task)
+
+13. Medium, Drug Discovery with Graph Neural Networks — part 2, https://towardsdatascience.com/drug-discovery-with-graph-neural-networks-part-2-b1b8d60180c4 ,determines whether the drug can pass safety tests-toxicity. (Classification task)
+
+14. Medium, Drug Discovery with Graph Neural Networks — part 3, https://towardsdatascience.com/drug-discovery-with-graph-neural-networks-part-3-c0c13e3e3f6d ,GNNExplainer, GNN models interpretability.
+
+15. Medium, Feature Extraction for Graphs, https://towardsdatascience.com/feature-extraction-for-graphs-625f4c5fb8cd ,node level, graph level, and neighbourhood overlap features.
+
+16. Medium, Machine Learning Tasks on Graphs, https://towardsdatascience.com/machine-learning-tasks-on-graphs-7bc8f175119a ,node classification, link prediction, learning over the whole graph, community detection.
