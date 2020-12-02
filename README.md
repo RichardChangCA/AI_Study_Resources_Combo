@@ -28,4 +28,6 @@
 
 14. DevOps: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/DevOps.md
 
+15. Meta Learning: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Meta_Learning.md
+
 <b>continue to update...
