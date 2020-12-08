@@ -187,3 +187,5 @@
 76. Medium, Timeline for Data Science Competence, https://medium.com/towards-artificial-intelligence/timeline-for-data-science-competence-1b724e7977e0 ,
 
 77. Medium, Ridgeline Plots: The Perfect Way to Visualize Data Distributions with Python, https://towardsdatascience.com/ridgeline-plots-the-perfect-way-to-visualize-data-distributions-with-python-de99a5493052
+
+78. Medium, KL Divergence Python Example, https://towardsdatascience.com/kl-divergence-python-example-b87069e4b810 ,KL divergence codes.
