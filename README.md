@@ -30,4 +30,6 @@
 
 15. Meta Learning: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Meta_Learning.md
 
+16. Geo-spatial Data related: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Geospatial_Data.md
+
 <b>continue to update...
