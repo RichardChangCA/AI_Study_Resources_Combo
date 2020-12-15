@@ -32,4 +32,6 @@
 
 16. Geo-spatial Data related: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Geospatial_Data.md
 
+17. Self-Supervised Learning: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Self_Supervised_Learning.md
+
 <b>continue to update...
