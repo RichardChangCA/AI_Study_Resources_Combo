@@ -120,3 +120,72 @@ Convolution(1D,2D,3D), Pooling, ResNet, Inception, Transfer Learning, Data Augme
 59. Medium, Image similarity using Triplet Loss, https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973 ,For Triplet Loss, the objective is to build triplets<anchor, positive, negative> consisting of an anchor image, a positive image(which is similar to the anchor image) and a negative image(which is dissimilar to the anchor image), Triplet Loss architecture helps us to solve several problems having a very high number of classes.(face recognition)
 
 60. Medium, Paper Explained- Vision Transformers (Bye Bye Convolutions?), https://medium.com/analytics-vidhya/vision-transformers-bye-bye-convolutions-e929d022e4ab ,Transformers work really well for NLP however they are limited by the memory and compute requirements of the expensive quadratic attention computation in the encoder block(image).
+
+61. Youtube, Michigan online, deep learning for computer vision, Justin Johnson, https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=1
+Image Classification: performance metric: Top 5 accuracy, Algorithm predicts 5 labels for each image, one of them needs to be right. 
+Few shot learning: each category has less images.
+Nearest neighbour is bad because we can afford slow training, but we need fast testing.
+K-Nearest Neighbour: Universal Approximation: as the number of training samples goes into infinity, nearest neighbour can represent any function.
+Curse of dimensionality: For uniform coverage of space, number of training points needed grows exponentially with dimension.
+Loss function also called objective function, cost function. Negative loss function sometimes called reward function, profit function, utility function, fitness function.
+Cross-entropy Loss(multinomial Logistic Regression, softmax function): want to interpret raw classifier scores as probabilities.
+Numeric gradient: approximate, slow, easy to write
+Analytic gradient: exact, fast, error-prone
+Computer Gradients: In practice, always use analytic gradient, but check implementation with numerical gradient, this is called a gradient check.
+Linear classifier interactive tool: http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/
+Saddle point in a problem during optimization, especially in high dimensions.
+Universal Approximation: A neural network with one hidden layer can approximate any function f with arbitrary precision.
+Generally speaking, convex functions are easy to optimize: can derive theoretical guarantees about converging to global minimum.
+Most neural networks need non-convex optimization: few or no guarantees about convergence, empirically it seems to work anyway.
+Receptive Fields in CNN
+Batch normalization estimates depend on mini-batch and cannot do this at test-time. 
+Batch normalization usually inserted after fully connected or convolutional layers, and before nonlinearity.
+Batch normalization makes deep networks much easier to train, allows higher learning rates, faster convergence, networks become more robust to initialization, acts as regularization during training. Behaves differently during training and testing: this is a very common source of bugs.
+Layer normalization for fully-connected networks in the feature dimension, same behaviour at train and test, used in RNNs, Transformers.
+Instance normalization for convolutional networks in the spatial dimension, same behaviour at train and test.
+Batch norm: average on batch and spatial dimension, Layer norm: average on feature and spatial dimension, Instance Norm: only average on spatial dimension.
+Group normalization: split channel into some number of groups, and do layer normalization over subsets of channel dimensions.
+AlexNet: 1. most of the memory usage is in the early convolution layers 2. Nearly all parameters are in the fully-connected layers 3. Most floating-point ops occur in the convolution layers.
+ZFNet: a bigger version of AlexNet
+Two 3*3 conv has same receptive field as a single 5*5 conv, but has fewer parameters and takes less computation.
+GoogLeNet, compared with AlexNet, VGG and ZFNet, many innovations for efficiency, reduce parameter count, memory usage and computation. Stem network: at the start aggressively downsamples input. Inception module: local unit with parallel branches. Local structure repeated many times throughout the network. Use 1*1 “Bottleneck” layers to reduce channel dimension before expensive conv. No large FC layers at the end! Instead uses global average pooling to collapse spatial dimensions, and one linear layer to produce class scores.
+Neural Architecture Search: One network(controller) outputs network architectures. Sample child networks from controller and train them. After training a batch of child networks, make a gradient step on controller network(Using policy gradient). Over time, controller learns to output good architectures. Very expensive, each gradient step on controller requires training a batch of child models. Original paper trained on 800 GPUs for 28 days! Followup work has focused on efficient search.
+CUDA(NVIDIA only) write C-like code that runs directly on the GPU. 
+In order to use TPUs(Google Tensor Processing Units), you have to use TensorFlow.
+PyTorch: Fundamental Concepts: 1. Tensor: like a numpy array, but can run on GPU 2. Autograd: Package for building computational graphs out of Tensors, and automatically computing gradients 3. Module: A neural network layer; may store state or learnable weights.
+Problem of Sigmoid activation function: 1. Saturated neurons “kill” the gradients 2. Sigmoid outputs are not zero-centered 3. exp() is a bit compute expensive. 
+Problem of Tanh activation function: still kills gradients when saturated
+ReLU activation function: does not saturate, very computationally efficient, converges much faster than sigmoid/tanh in practice(e.g. 6x), but not zero-centered, and an annoyance: the gradient when x=0(rarely, just choose one side). Dead ReLU problem: never activate ==> sometimes initialize ReLU neurons with slightly positive biases(e.g. 0.01).
+Leaky ReLU: will not “die”
+Parametric Rectifier(PReLU): max(ax, x), backprop into alpha(learnable parameter)
+Exponential Linear Unit(ELU): all benefits of ReLU, closer to zero mean outputs, negative saturation regime compared with leaky ReLU, adds some robustness to noise. Computation requires exp().
+Scaled Exponential Linear Unit(SELU): Scaled version of ELU that works better for deep networks “Self-Normalizing” property; can train deep SELU networks without BatchNorm.
+Data preprocessing for images: standardization(whole images or channel-wise), testing uses training mean and std.
+Regularization: Fractional Max Pooling(receptive field of pooling is randomized)
+Regularization: Stochastic Depth(training: skip some residual blocks in ResNet, testing: use the whole network)
+Regularization: Mixup(training: train on random blends of images, testing: use original images)
+Consider dropout for large fully-connected layers
+Batch normalization and data augmentation almost always a good idea
+Try cutout and mixup especially for small classification datasets.
+Learning rate decay: step, reduce learning rate at a few fixed points.
+Cosine learning rate decay
+Learning Rate Decay: Inverse Sqrt(spend more time on small learning rate) 
+Choosing Hyper-parameters: Grid Search, choose several values for each hyper-parameter(often space choices log-linearly), evaluate all possible choices on this hyper-parameter grid.
+Choosing Hyper-parameters: Random Search
+Choosing Hyper-parameters steps: Step 1. Check initial loss: turn off weight decay, sanity check loss at initialization, Step 2.overfit a small sample: try to train to 100% training accuracy on a small sample of training data(~5-10 mini-batches); fiddle with architecture, learning rate, weight initialization. Turn off regularization. Loss not going down? Learning rate too low, bad initialization, loss explodes to influence or NaN? Learning rate too high, bad initialization. Step 3. Find LR that makes loss go down: use the architecture from the previous step, use all training data, turn on small weight decay, find a learning rate that makes the loss drop significantly within ~100 iterations. Good learning rate to try: 1e-1, 1e-2, 1e-3, 1e-4. Step 4. Coarse grid, train for ~1-5 epochs: choose a few values of learning rate and weight decay around what worked from step 3, train a few models for ~1-5 epochs. Step 5. Reine grid, train longer. Step 6. Look at learning curves. Step 7. GOTO step 5.
+Model Ensembles: Tips and Tricks, instead of training independent models, use multiple snapshots(checkpoints) of a single model during training. (Cyclic learning rate schedules can make this work even better)
+Model Ensembles: Tips and Tricks, instead of using actual parameter vector, keep a moving average of the parameter vector and use that at test time(Polyak averaging)
+Data Parallelism: Copy Model on each GPU, split data, GPUs only communicate once per iteration, and only exchange grad params, sum, update.
+Video classification(RNN): sequence of images —> label
+Sequential processing of non-sequential data: classify images by taking a series of “glimpses”
+Exploding gradients —> gradient clipping: scale gradients if its norm is too big.
+RNN: works on Ordered Sequences, good at long sequences: after one RNN layer, h_t “see” the whole sequence. Not parallelizable: need to compute hidden states sequentially.
+Self-attention: works on sets of vectors, good at long sequence: after one self-attention layer, each output “sees” all inputs. Highly parallel: each output can be computed in parallel, but very memory intensive.
+Saliency map via occlusion: mask part of the image before feeding to CNN, check how much predicted probabilities change.
+Saliency map via back-propagation: compute gradient of(unnormalized) class score with respect to image pixels, take absolute value and max over RGB channels.
+Saliency Maps: segmentation without supervision
+Markov Decision Process(MDP), Markov Property: The current state completely characterizes the state of the world. Rewards and next states depend only on current state, not history. Agent executes a policy pi giving distribution of actions conditioned on states. The value function at state s, is the expected cumulative reward from following the policy from state s. The Q function at state s and action a, is the expected cumulative reward from taking action a in state s and then following the policy.
+Bellman Equation Intuition: After taking action a in state s, we get reward r and move to a new state s’. After that, the max possible reward we can get is max_a’ Q*(s’,a’). Idea: if we find a function Q(s,a) that satisfies the Bellman Euation, then it must be Q*. Deep Q-Learning: use Bellman equation as loss. Policy Gradients: Train a network pi_theta(a|s) that takes state as input, gives distribution over which action to take in that state. Use REINFORCE rule for computing gradients. Actor-Critic:Train an actor that predicts actions(like policy gradient) and a critic that predicts the future rewards we get from taking those actions. Model-based:Learn a model of the world’s state transition function P(s_t+1|s_t,a_t) and then use planning through the model to make decisions. Imitation Learning: Gather data about how experts perform in the environment, learn a function to imitate what they do(supervised learning approach). Inverse Reinforcement Learning: Gather data of experts performing in environment, learn a reward function that they seem to be optimizing, then use RL on that reward function. Adversarial Learning: Learn to fool a discriminator that classifies actions as real/fake.
+Lottery Ticket Hypothesis: Within a random deep network is a good subnet that won the “initialization lottery”. 
+LVIS: A Dataset for large Vocabulary Instance Segmentation.(Few-Shot Learning)
+Self-Supervised Learning: Step1: Train a CNN on some “pretext task” that does not require labeled data. Step2: Fine-tune CNN on target task(hopefully using not much labeled data).
