@@ -176,3 +176,5 @@ Empirically observe that diferent scaling dimensions are not independent. Intuit
 63. 2017, Semi-Supervised Learning for Network-BasedCardiac MR Image Segmentation, https://spiral.imperial.ac.uk/bitstream/10044/1/49165/2/bai2017miccai.pdf ,:(similar idea of mine:)
 
 64. 2017, Semi-Supervised Deep Learning for Fully Convolutional Networks, https://arxiv.org/pdf/1703.06000.pdf ,This embedding loss function aims at minimizing the distance among latent representations of similar h(x_i) and h(x_j) of neighbouring data samples x_i and x_j. 
+
+65. 2016, Long-term Recurrent Convolutional Networks for Visual Recognition and Description, https://arxiv.org/pdf/1411.4389.pdf ,We’ve presented LRCN, a class of models that is both spatially and temporally deep, and flexible enough to be applied to a variety of vision tasks involving sequential inputs and outputs.
