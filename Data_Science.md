@@ -189,3 +189,23 @@
 77. Medium, Ridgeline Plots: The Perfect Way to Visualize Data Distributions with Python, https://towardsdatascience.com/ridgeline-plots-the-perfect-way-to-visualize-data-distributions-with-python-de99a5493052
 
 78. Medium, KL Divergence Python Example, https://towardsdatascience.com/kl-divergence-python-example-b87069e4b810 ,KL divergence codes.
+
+79. CSI4106 Introduction of Artificial Intelligence
+Three kinds of Human reasoning:
+Deduction, induction and abduction
+Deduction: Given the rule and the cause, deduce the effect.
+Induction: Given a cause and an effect, induce a rule.
+Abduction: Given a rule and an effect, abduce a cause.
+A proposition corresponds to a statement.
+A statement is a declarative sentence which can be true or false.
+Propositional logic is sometimes referred to as sentential logic or statement logic.
+When propositions are written using the proper syntax, we can say that they are well-formed formula(wff).
+Tautology: A proposition that is always true.
+Contradiction: A proposition that is always false.
+In a closed world, everything unknown is False.
+In an open world assumption, everything is possible.
+Monotonic: may not learn any knowledge that contradicts what it already knows, never replaces a statement with its negation, knowledge base only grows, advantages: simplified truth maintenance.
+Non-Monotonic: learn knowledge that contradicts what it already knows, replaces old knowledge with new, advantages: increased applicability to real domains.
+Fuzzy logic not (1-A)
+Fuzzy logic and min(A,B)
+Fuzzy logic or max(A,B)
