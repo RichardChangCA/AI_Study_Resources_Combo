@@ -34,4 +34,5 @@
 
 17. Self-Supervised Learning: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Self_Supervised_Learning.md
 
+18. Git: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Git.md
 <b>continue to update...
