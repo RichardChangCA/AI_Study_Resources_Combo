@@ -14,7 +14,7 @@ Youtube Channel: https://www.youtube.com/watch?v=dD6LRgw_2mQ&list=PL1OaWjIc3zJ4x
 
 Bilibili: https://www.bilibili.com/video/BV1jE41177A4?p=2
 
-<b>Lecture 1: Introduction Structure of Graphs
+<b>Lecture 1: Introduction Structure of Graphs</b>
 
 Node Classification: Predict the type/colour of the given node; Link prediction: Predict whether two nodes are linked; Community detection: Identify densely linked clusters of nodes; Network similarity: Measure similarity of two nodes/networks. Bipartite graph is a graph whose nodes can be divided into two disjoint sets U and V such that every link connects a node in U to one in V; that is, U and V are independent sets. Most real-world networks are sparse. Possible options for edge attributes: weights, ranking, type, sign(positive or negative). Bridge edge: if we erase the edge, the graph becomes disconnected. Articulation node: if we erase the node, the graph becomes disconnected. Strongly connected directed graph has a path from each node to every other node and vice versa. Weakly connected directed graph is connected if we disregard the edge directions. Strongly connected components(SCCs) can be identified, but not every node is part of non-trival strongly connected component, in-component: nodes that can reach the SCC, out-component: nodes that can be reached from the SCC.
 
