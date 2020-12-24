@@ -30,6 +30,10 @@ Motifs:Subnetworks, negative significance: under-representation, positive signif
 
 Structural Roles in Networks: Roles(A group of nodes with similar structural properties), Communities/Groups(A group of nodes that are well-connected to each other), Structural equivalence(Nodes u and v are structural equivalent if they have the same relationships to all other nodes). RoIX: Automatic discovery of nodes’ structural roles in networks, Recursive feature extraction(Aggregate features of a node and use them to generate new recursive features). Egonet features: computed on the node’s ego net. Egonet includes the node, its neighbours, and any edges in the induced subgraph on these nodes.
 
+<b>Lecture 4: Community structure in Networks.</b>
+
+Triadic closure: high clustering coefficient. Network communities: sets of nodes with lots of internal connections and few external ones(to the rest of the network). Communities: sets of tightly connected nodes. Modularity Q: A measure of how well a network is partitioned into communities. Idea: we can identify communities by maximizing modularity. Louvain Algorithm greedily maximizes modularity, each pass is made of 2 phases: Phase 1: Modularity is optimized by allowing only local changes to node-communities memberships, Phase 2: The identified communities are aggregated into super-nodes to build a new network, Goto Phase 1. The weights of the edges between the new super-nodes are given by the sum of the weights of the edges between vertices in the corresponding two communities. 
+
 4. Medium, An Illustrated Guide to Graph Neural Networks(GNN) https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783
 
 5. Medium, Getting the Intuition of Graph Neural Networks, https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d ,graph theory. Translate graph into features or neural networks: Adjacency Matrix, Node Attributes Matrix, Edge Attributes Matrix. Batch Mode(each item is a graph), Single Mode.
