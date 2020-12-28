@@ -36,4 +36,6 @@
 
 18. Git: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Git.md
 
+19. Math: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Math.md
+
 <b>continue to update...
