@@ -1,6 +1,6 @@
 1. Medium with Youtube, What is Self-Supervised Learning? | Will machines ever be able to learn like humans? https://medium.com/what-is-artificial-intelligence/what-is-self-supervised-learning-will-machines-be-able-to-learn-like-humans-d9160f40cdd1
 
-CS294-158 UC Berkeley Deep Unsupervised Learning
+2. CS294-158 UC Berkeley Deep Unsupervised Learning
 
 <b>Lecture 1: Introduction</b>
 
