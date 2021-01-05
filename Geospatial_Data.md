@@ -10,3 +10,4 @@
 
 6. Medium, 5 Geospatial Tips and Tricks in Python, https://towardsdatascience.com/5-geospatial-tips-and-tricks-in-python-eef86aec5110 ,categorical features do not need preprocessing, quick computation, increase in accuracy with less overfitting. 
 
+7. Medium, Feature Engineering with Geospatial Data: Predicting NYC Cab Trip Duration, https://medium.com/analytics-vidhya/feature-engineering-with-geospatial-data-predicting-nyc-cab-trip-duration-a121ec16021b ,The log transformation made the data(highly skewed) conform more closely to a normal distribution. Great circle distance: refers to the shortest distance between two points on a sphere. 
