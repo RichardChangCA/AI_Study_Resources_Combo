@@ -50,6 +50,10 @@ Network embedding: Distributed representations for nodes, similarity of embeddin
 
 Deep Graph Encoders: multiple layers of non-linear transformations of graph structure. Inductive node embedding —> Generalize to entirely unseen graphs(E.g. train on protein interaction graph from model organism A and generate embeddings on newly collected data about organism B). Graph Convolutional Network: Average neighbourhood information and stack neural networks, GraphSAGE: generalized neighbourhood aggregation. Graph Attention Networks: Implicitly specifying different weights to different nodes in a neighbourhood. Multi-head attention: Stabilize the learning process of attention mechanism, Attention operations in a given layer are independently replicated R times(each replica with different parameters), Outputs are aggregated(by concatenating or adding).
 
+<b>Lecture 10 Deep Generative Models for Graphs</b>
+
+Realistic graph generation: Generate graphs that are similar to a given set of graphs. Goal-directed graph generation: Generate graphs that optimize given objectives/constraints. Auto-regressive models apply chain rule: joint distribution is a product of conditional distributions. GraphRNN: Generating graphs via sequentially adding nodes and edges. Model Graphs as Sequences: Graph G with node ordering can be uniquely mapped into a sequence of node and edge additions, A graph + a node ordering(randomly selected) = A sequence of sequences(Node-level sequence, and for each node, there is a edge-level sequence), Transform graph generation problem into a sequence generation problem. Breadth-First Search Node ordering: only need remember of 2 “steps” rather than n-1 steps. Graph Convolutional Policy Network combines graph representation + RL: Graph Neural Network captures complex structural information, and enables validity check in each state transition(Valid), Reinforcement Learning optimizes intermediate/final rewards(High scores), Adversarial training imitates examples in given datasets(Realistic). 
+
 4. Medium, An Illustrated Guide to Graph Neural Networks(GNN) https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783
 
 5. Medium, Getting the Intuition of Graph Neural Networks, https://medium.com/analytics-vidhya/getting-the-intuition-of-graph-neural-networks-a30a2c34280d ,graph theory. Translate graph into features or neural networks: Adjacency Matrix, Node Attributes Matrix, Edge Attributes Matrix. Batch Mode(each item is a graph), Single Mode.
@@ -75,3 +79,5 @@ Deep Graph Encoders: multiple layers of non-linear transformations of graph stru
 15. Medium, Feature Extraction for Graphs, https://towardsdatascience.com/feature-extraction-for-graphs-625f4c5fb8cd ,node level, graph level, and neighbourhood overlap features.
 
 16. Medium, Machine Learning Tasks on Graphs, https://towardsdatascience.com/machine-learning-tasks-on-graphs-7bc8f175119a ,node classification, link prediction, learning over the whole graph, community detection.
+
+17. Medium, Training Graph Convolutional Networks on Node Classification Task, https://towardsdatascience.com/graph-convolutional-networks-on-node-classification-2b6bbec1d042 ,Spektral: based on TensorFlow 2 and Keras. Transductive Learning: the neural network sees all data, including the test dataset, during the training. 
