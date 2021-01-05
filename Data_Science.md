@@ -209,3 +209,9 @@ Non-Monotonic: learn knowledge that contradicts what it already knows, replaces 
 Fuzzy logic not (1-A)
 Fuzzy logic and min(A,B)
 Fuzzy logic or max(A,B)
+
+80. Medium, Docly: Generate Comments Automatically for Python Code, https://towardsdatascience.com/docly-generate-comments-automatically-for-python-code-c2f743cdfa1e ,Docly uses natural language processing to understand what each of the functions in doing and generates docstring accordingly. 
+
+81. Medium, Beyond One-Hot. 17 Ways of Transforming Categorical Features Into Numeric Features, https://towardsdatascience.com/beyond-one-hot-17-ways-of-transforming-categorical-features-into-numeric-features-57f54f199ea4 ,Un-Supervised Feature Encoder: based solely on the categorical column, Supervised Feature Encoder: based on some function of the original column and a second(numeric) column. BinaryEncoder leads to a dimensionality reduction with respect to one-hot. 
+
+82. Medium, Inductive vs. Transductive Learning, https://towardsdatascience.com/inductive-vs-transductive-learning-e608e786f7d, Transduction is reasoning from observed, specific(training) cases to specific(test) cases. In contrast, induction is reasoning from observed training cases to general rules, which are then applied to the test cases. Transduction does not build a predictive model. If a new data point is added to the testing dataset, then we will have to re-run the algorithm from the beginning, train the model and then use it to predict the labels. On the other hand, inductive learning builds a predictive model. When you encounter new data points, there is no need to re-run the algorithm from the beginning. 
