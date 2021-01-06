@@ -56,7 +56,11 @@ Realistic graph generation: Generate graphs that are similar to a given set of g
 
 <b>Lecture 11 Link Analysis PageRank</b>
 
-Two types of directed graphs(strongly connected: Any node can reach any node via a directed path, Directed Acyclic Graph: Has no cycles: if u can reach v, then v cannot reach u). Recommender systems: User to Item graph, Collaborative filtering-recommend items based on the users they have in common. “Normal” PageRank: Teleports uniformly at random to any node, all nodes have the same probability of surfer landing. Topic-Specific PageRank: also known as Personalized PageRank, teleports to a topic specific set of pages, nodes can have different probabilities of surfer landing. Random Walk with Restarts: Topic-Specific PageRank where teleport is always to the same node. 
+Two types of directed graphs(strongly connected: Any node can reach any node via a directed path, Directed Acyclic Graph: Has no cycles: if u can reach v, then v cannot reach u). Recommender systems: User to Item graph, Collaborative filtering-recommend items based on the users they have in common. “Normal” PageRank: Teleports uniformly at random to any node, all nodes have the same probability of surfer landing. Topic-Specific PageRank: also known as Personalized PageRank, teleports to a topic specific set of pages, nodes can have different probabilities of surfer landing. Random Walk with Restarts: Topic-Specific PageRank where teleport is always to the same node.
+
+<b>Lecture 12 Network Effects and Cascading Behavior</b>
+
+Bahaviors that cascade from node to node like an epidemic. Decision based models: models of product adoption, decision making, a node observes decisions of its neighbors and makes its own decision. Successful cascade starters are central and connected to equally well connected users.
 
 4. Medium, An Illustrated Guide to Graph Neural Networks(GNN) https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783
 
