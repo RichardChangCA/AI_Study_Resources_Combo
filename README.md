@@ -38,4 +38,6 @@
 
 19. Math: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Math.md
 
+20. R: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/R.md
+
 <b>continue to update...
