@@ -219,3 +219,7 @@ Fuzzy logic or max(A,B)
 83. Medium, Data Scientist vs Senior Data Scientist. Here’s the Difference. https://towardsdatascience.com/data-scientist-vs-senior-data-scientist-heres-the-difference-5101cd1614fc ,non-senior data scientist: exploratory data analysis, builds the model. Senior data scientist: defines the business problem, develops data, explains results to stakeholders. 
 
 84. UMAP: Uniform Manifold Approximation and Project, dimensionality reduction(like t-SNE, PCA), supervised-learning can be used, Github: https://github.com/lmcinnes/umap ,Youtube Introduction: https://www.youtube.com/watch?v=nq6iPZVUxZU 
+
+85. Medium, Introduction of PyCaret, https://medium.com/@ODSC/introduction-to-pycaret-3a01303719c2 ,a new machine learning library for python, low-code resource. 
+
+86. Medium, Understanding Contrastive Learning, learn how to learn without labels. https://towardsdatascience.com/understanding-contrastive-learning-d5b19fd96607 ,Contrastive Learning is a machine learning technique used to learn the general features of a dataset without labels by teaching the model which data points are similar or different. Self-supervised Learning: Train the model to learn a lot about our data without any annotations or labels. Semi-supervised Learning paradigm: the self-supervised contrastive learning approach is a crucial ‘pre-processing’ step, that allows the Big CNN model to first learn general features from unlabeled data before trying to classify the images using limited labeled data. 
