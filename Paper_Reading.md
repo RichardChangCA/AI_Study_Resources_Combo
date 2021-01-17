@@ -178,3 +178,11 @@ Empirically observe that diferent scaling dimensions are not independent. Intuit
 64. 2017, Semi-Supervised Deep Learning for Fully Convolutional Networks, https://arxiv.org/pdf/1703.06000.pdf ,This embedding loss function aims at minimizing the distance among latent representations of similar h(x_i) and h(x_j) of neighbouring data samples x_i and x_j. 
 
 65. 2016, Long-term Recurrent Convolutional Networks for Visual Recognition and Description, https://arxiv.org/pdf/1411.4389.pdf ,We’ve presented LRCN, a class of models that is both spatially and temporally deep, and flexible enough to be applied to a variety of vision tasks involving sequential inputs and outputs.
+
+66. 2020, DPDDI: a deep predictor for drug-drug interactions, https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03724-x ,extract feature vectors via GCN and then feed them features into DNN to predict interactions.
+
+67. 2019, Prediction of drug-target interaction by integrating diverse heterogeneous information source with multiple kernel learning and clustering methods, https://www.sciencedirect.com/science/article/pii/S1476927118307771?via%3Dihub ,based on the assumption that similar drugs tend to interact with similar proteins and vice versa. 
+
+68. 2021, Refining activation downsampling with SoftPool, https://arxiv.org/pdf/2101.00440.pdf A novel pooling method that better preserves informative features and, consequently, improves classification performance in CNNs. SoftPool uses the softmax of inputs within a kernel region where each of the activations has a proportional effect on the input.
+
+69. 2021, Generative Adversarial U-Net for Domain-free Medical Image Augmentation, https://arxiv.org/pdf/2101.04793.pdf Use conditional GANs, which learn a mapping from a random noise vector and observed images for the class. Maybe can be used in semi-supervised segmentation.
