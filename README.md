@@ -40,4 +40,10 @@
 
 20. R: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/R.md
 
+21. Anomaly Detection: https://github.com/RichardChangCA/Anomaly_detection_practice/blob/master/README.md
+
+22. Computer Graphics: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Computer_graphics.md
+
+23. Data Mining: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Data_mining.md
+
 <b>continue to update...
