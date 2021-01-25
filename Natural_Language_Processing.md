@@ -37,3 +37,5 @@
 13. Medium, 5 NLP Libraries Everyone Should Know, https://towardsdatascience.com/5-nlp-libraries-everyone-should-know-4f13f5263908 ,to simplify text preprocessing, spaCy(comparatively faster because Cython support), NLTK, Transformers, Gensim: identify semantic similarity between two documents through vector space modelling and topic modelling toolkit, Stanza: SOTA and on top of PyTorch library which supports GPU. Foundations of Statistical Natural Language Processing book source: https://nlp.stanford.edu/fsnlp/ 
 
 14. Medium, NLP with CNNs, https://towardsdatascience.com/nlp-with-cnns-a6aa743bdc1e ,one word is a word vector, several words can be concatenated together and then do convolutions in 2d.
+
+15. Medium, Understanding Attention Mechanism: Natural Language Processing, https://medium.com/analytics-vidhya/https-medium-com-understanding-attention-mechanism-natural-language-processing-9744ab6aed6a ,Instead of encoding the input sequence into a single fixed context vector, the attention model develops a context vector that is filtered specifically for each output time step. 
