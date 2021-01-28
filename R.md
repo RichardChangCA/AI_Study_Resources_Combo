@@ -51,7 +51,42 @@ To compare the plot with another plot, use the points() function
 
 which.max(), which.min() functions to find the index position of the max and min value in the table
 
+2. RStudio global 2021 Conference Notes:
 
+RStudio Package Manager: https://rstudio.com/products/package-manager/
+
+Twitter of RStudio::global(2021) https://twitter.com/search?q=%23rstudioglobal
+
+All conference videos are recorded at https://rstudio.com/resources/webinars/
+
+Reports with R Markdown: Reporducible, Dynamic, Multiple output formats
+Step1: Find your brand(font, color, etc.)
+Step2: Build a template
+Step3: Polish(e.g. ggplots themes)
+Package: ratlas, Github: https://github.com/atlas-aai/ratlas
+Other R markdown examples: sorensonimpact, thesisdown, rticles
+
+Shiny bindCache() functoin: will cache all previous values(as long as they fit in the cache) and they can be shared across user sessions.
+https://rdrr.io/github/rstudio/shiny/man/bindCache.html
+Caching details:
+Size: Default cache size is 200MB in memeory. Size can be changed and cache can be stroed on disk.
+Scope: Cache is shared across all user sessions of the app. Can be scoped just to one session.
+Lifetime: A memory cache is discarded when the app exits or restarts. But a disk-based cache can persist across app restarts, and can be shared among multiple processes with Coneect or Shiny Server Pro.
+
+One of the foundations of cognitive behavioral therapy:
+I must be a moron if I cannot perform this simple maintenance task.
+-This is not something I do very often so it is unreasonable to expect that I would automatically be expert at it.
+The documentation is useless and does not help me at all.
+-It is not possible to document every possible existing situation; but I can still read the docs and learn something.
+This was a total waste of time. I will never get those 4 hours back again.
+-Maybe  I did not succeed in my original goal, but I made some progress, and I gained valuable insights for the next time I try.
+
+Custom themes in Shiny & R Markdown with {bslib} & {thematic}
+https://talks.cpsievert.me/20201215/rstudio-global.pdf
+
+R-Universe: https://r-universe.dev/organizations/
+R ecosystem, a tool to monitor the quality, health, and impact of R packages.
+R-Universe is an open platform, where we will experiment with showing metrics and other background information about packages, that may reveal something about the health and the impact of the project, and also facilitate discovery of other software.
 
 
 
