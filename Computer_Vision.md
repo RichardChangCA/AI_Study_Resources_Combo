@@ -201,3 +201,5 @@ The value function at state s, is the expected cumulative reward from following 
 <b>Lecture 16: Adversarial Examples and Adversarial Training</b>
 
 Universal Approximator Theorem: Neural nets can represent either function. Training on adversarial examples is a good regularizer. Adversarially trained neural nets have the best empirical success rate on adversarial examples of any machine learning mode.
+
+64. Medium, Multiple Instance Learning-pytorch implement based on MNIST, https://medium.com/swlh/multiple-instance-learning-c49bd21f5620 ,Multiple instance learning: in machine learning, multiple-instance learning(MIL) is a type of receiving a set of instances which are individually labeled, the learner receives a set of labeled bags, each containing many instances. In the simple case of multiple-instance binary classification, a bag may be labeled negative if all the instances in it are negative. On the other hand, a bag is labeled positive if there is at least one instance in it which is positive.
