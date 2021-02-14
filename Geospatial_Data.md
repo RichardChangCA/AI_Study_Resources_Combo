@@ -19,3 +19,7 @@
 10. Medium, The Best New Geospatial Data Science Libraries In 2019, https://towardsdatascience.com/the-best-new-geospatial-data-science-libraries-in-2019-7f0174e2a0eb
 
 11. Medium, Location-enable Your Data Analysis with Python, https://medium.com/swlh/location-enable-your-data-analysis-with-python-29ff2d570ebc ,A Pizza Delivery Example
+
+12. Medium, How to Learn Geospatial data science for free in 2020(Geo-spatial data science online courses) https://towardsdatascience.com/how-to-learn-geospatial-data-science-for-free-in-2020-f486d91adfc7
+
+13. Medium, Geographic Data science Best books in 2020, https://towardsdatascience.com/geographic-data-science-best-books-in-2020-f5fab770de16
