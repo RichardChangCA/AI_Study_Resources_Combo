@@ -223,3 +223,5 @@ Dataset, MICCAI, semi-supervised learning dataset(labeled with unlabeled data), 
 85. ICLR 2018, Graph Attention Networks(GATs), https://arxiv.org/pdf/1710.10903.pdf ,The idea is to compute the hidden representations of each node in the graph, by attending over its neighbors, following a self-attention strategy. Usage on protein-protein interaction dataset.
 
 86. 2020 pre-print, Densely Guided Knowledge Distillation using Multiple Teacher Assistants, https://arxiv.org/pdf/2009.08825.pdf ,few studies have been performed to resolve the poor learning issue of the student network when the student and teacher model sizes significantly differ. When learning a TA whose model size gradually decreases for the target student, the knowledge is not distilled only from the direct higher level TA but it guided from all previously learned higher level TAs including the teacher. Use Microsoft’s neural network intelligence toolkit to do hyper-parameter tuning
+
+87. 2017 DeepLabV2, DeepLab: Semantic Image Segmentation withDeep Convolutional Nets, Atrous Convolution,and Fully Connected CRFs, https://arxiv.org/pdf/1606.00915v2.pdf ,
