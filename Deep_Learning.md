@@ -81,3 +81,5 @@ SegNet: does not have any skip connections, no learnable parameters are used for
 33. Medium, Distilling the Knowledge in a Neural Network, https://ahmdtaha.medium.com/distilling-the-knowledge-in-a-neural-network-77b7232bb631 ,The motivation is developing compact networks like MobileNet, network compression and network distillation. 
 
 34. Medium, Multimodal Deep Learning, https://towardsdatascience.com/multimodal-deep-learning-ce7d1d994f4 
+
+35. Youtube, Markov Network Fundamentals, including conditional random fields.(By Daphne Koller), https://www.youtube.com/watch?v=rc3YDj5GiVM&list=PLIG2x2RJ_4LRnlSJ58A9YNavvKLaz1252&index=3
