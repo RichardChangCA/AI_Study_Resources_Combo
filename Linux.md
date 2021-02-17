@@ -5,3 +5,5 @@
 3. Linux Copy File Commands: https://www.cyberciti.biz/faq/copy-command/
 
 3. copy local file to ssh server: scp command, https://www.simplified.guide/ssh/copy-file
+
+4. open current folder via command line: xdg-open .
