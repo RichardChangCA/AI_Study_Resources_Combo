@@ -33,3 +33,5 @@
 17. Medium, Python Decorators — 5 Advanced Features to Know, https://medium.com/better-programming/python-decorators-5-advanced-features-to-know-17dd9be7517b ,1. Support different function signatures, 2. Wrap the decorated function, 3. Define decorators with arguments, 4. Multiple decorators, 5. Class-based decorators
 
 18. Medium, New Features in Python 3.10, https://towardsdatascience.com/new-features-in-python-3-10-66ac05e62fc7
+
+19. Stop Using Print to Debug in Python. Use Icecream Instead, https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc
