@@ -83,3 +83,5 @@ SegNet: does not have any skip connections, no learnable parameters are used for
 34. Medium, Multimodal Deep Learning, https://towardsdatascience.com/multimodal-deep-learning-ce7d1d994f4 
 
 35. Youtube, Markov Network Fundamentals, including conditional random fields.(By Daphne Koller), https://www.youtube.com/watch?v=rc3YDj5GiVM&list=PLIG2x2RJ_4LRnlSJ58A9YNavvKLaz1252&index=3
+
+Medium, Curse of Batch Normalization, https://towardsdatascience.com/curse-of-batch-normalization-8e6dd20bc304 ,Unstable when using small batch sizes. Leads to increased training time. Different results in training and inference(worse, due to smaller batch size). Not good for online learning. 
