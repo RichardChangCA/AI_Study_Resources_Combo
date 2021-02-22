@@ -7,3 +7,5 @@
 3. copy local file to ssh server: scp command, https://www.simplified.guide/ssh/copy-file
 
 4. open current folder via command line: xdg-open .
+
+5. Kill process: pidof program_name to get the pid of the processing program, e.g. pidof python3. sudo kill -9 pid, https://itsfoss.com/how-to-find-the-process-id-of-a-program-and-kill-it-quick-tip/
