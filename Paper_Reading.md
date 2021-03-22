@@ -237,3 +237,5 @@ Dataset, MICCAI, semi-supervised learning dataset(labeled with unlabeled data), 
 92. 2020,  X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis, https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2.full , GitHub: https://github.com/bm2-lab/X-MOL , X-MOL applies large-scale pre-training technology on 1.1 billion molecules for molecular understanding and representation, and then, carefully designed fine-tuning was performed to accommodate diverse downstream molecular analysis tasks. SMILES-based molecular representation, visualization for interpretability, idea of “mass of miracles”, 
 
 93. 2019, Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction, https://arxiv.org/pdf/1908.06760.pdf , Transformer->Drug SMILES, CNN->Protein FASTA, word embedding+positional embedding
+
+94. 2016, Classifying and segmenting microscopy images with deep multiple instance learning, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4908336/pdf/btw252.pdf
