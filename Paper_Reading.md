@@ -239,3 +239,5 @@ Dataset, MICCAI, semi-supervised learning dataset(labeled with unlabeled data), 
 93. 2019, Self-Attention Based Molecule Representation for Predicting Drug-Target Interaction, https://arxiv.org/pdf/1908.06760.pdf , Transformer->Drug SMILES, CNN->Protein FASTA, word embedding+positional embedding
 
 94. 2016, Classifying and segmenting microscopy images with deep multiple instance learning, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4908336/pdf/btw252.pdf
+
+95. 2018, Attention-based Deep Multiple Instance Learning, https://arxiv.org/pdf/1802.04712.pdf ,a single class label is assigned to a bag of instances. GitHub repo(PyTorch): https://github.com/AMLab-Amsterdam/AttentionDeepMIL repo(TensorFlow): https://github.com/SeongokRyu/multiple_instance_learning
