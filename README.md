@@ -46,4 +46,6 @@
 
 23. Data Mining: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Data_Mining.md
 
+24. PyTorch: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/PyTorch.md
+
 <b>continue to update...
