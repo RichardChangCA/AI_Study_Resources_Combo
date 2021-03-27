@@ -243,3 +243,5 @@ Dataset, MICCAI, semi-supervised learning dataset(labeled with unlabeled data), 
 95. 2018, Attention-based Deep Multiple Instance Learning, https://arxiv.org/pdf/1802.04712.pdf ,a single class label is assigned to a bag of instances. GitHub repo(PyTorch): https://github.com/AMLab-Amsterdam/AttentionDeepMIL repo(TensorFlow): https://github.com/SeongokRyu/multiple_instance_learning
 
 96. 2019, MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation, https://arxiv.org/pdf/1902.04049.pdf  Motivation: a network should be robust enough to analyze objects at different scales. Although this issue has been addressed in several deep computer vision works, to the best of our knowledge, this issue is still not addressed properly in the domain of medical image segmentation. GitHub(Keras): https://github.com/nibtehaz/MultiResUNet
+
+97. 2019, ResUNet++: An Advanced Architecture for Medical Image Segmentation, https://arxiv.org/pdf/1911.07067.pdf , GitHub(TensorFlow): https://github.com/DebeshJha/ResUNetPlusPlus
