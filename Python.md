@@ -35,3 +35,11 @@
 18. Medium, New Features in Python 3.10, https://towardsdatascience.com/new-features-in-python-3-10-66ac05e62fc7
 
 19. Stop Using Print to Debug in Python. Use Icecream Instead, https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc
+
+20. Medium, Python NamedTuples: How They Help You to Write Readable Code, https://erdemisbilen.medium.com/python-namedtuples-how-they-help-you-to-write-readable-code-13a899d85dc3 ,Each element contained in NamedTuples can be accessed through a unique and human-readable identifier. So you don’t have to remember integer indexes.
+
+21. Medium,  ipygany: Jupyter into the third dimension(3D), https://blog.jupyter.org/ipygany-jupyter-into-the-third-dimension-29a97597fc33
+
+22. Medium, Abracadabra! Bringing the magics to xeus-python, https://blog.jupyter.org/abracadabra-bringing-the-magics-to-xeus-python-9d17bcfacb4 ,extension, visual debugging in JupyterLab
+
+23. Medium, How To Run a Python Script Using a Docker Container, https://towardsdatascience.com/how-to-run-a-python-script-using-a-docker-container-ea248e618e32
