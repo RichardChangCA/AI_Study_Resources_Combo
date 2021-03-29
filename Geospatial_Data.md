@@ -23,3 +23,5 @@
 12. Medium, How to Learn Geospatial data science for free in 2020(Geo-spatial data science online courses) https://towardsdatascience.com/how-to-learn-geospatial-data-science-for-free-in-2020-f486d91adfc7
 
 13. Medium, Geographic Data science Best books in 2020, https://towardsdatascience.com/geographic-data-science-best-books-in-2020-f5fab770de16
+
+14. Medium, Air Quality Forecasts, https://lgslm.medium.com/air-quality-forecasts-743289f22a68
