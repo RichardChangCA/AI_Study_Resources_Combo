@@ -15,3 +15,5 @@
 8. Medium, The Best Machine Learning Resources, https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1 ,Programming(Python), Linear Algebra, Probability&Statistics, Calculus, Machine Learning, Deep Learning, Reinforcement Learning, Artificial Intelligence, Artificial Intelligence Safety, News Letters, Advices
 
 9. Medium, A Visual Guide to Gradient Boosted Trees (XGBoost), https://towardsdatascience.com/a-visual-guide-to-gradient-boosted-trees-8d9ed578b33 ,Boosting combines weak learners(usually decision trees with only one split, called decision stumps) sequentially, so that each new tree corrects the errors of the previous one. 
+
+10. Optuna, an automatic hyperparameter optimization software framework, particularly designed for machine learning. https://github.com/optuna/optuna
