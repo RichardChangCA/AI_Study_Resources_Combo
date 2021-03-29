@@ -85,3 +85,7 @@ SegNet: does not have any skip connections, no learnable parameters are used for
 35. Youtube, Markov Network Fundamentals, including conditional random fields.(By Daphne Koller), https://www.youtube.com/watch?v=rc3YDj5GiVM&list=PLIG2x2RJ_4LRnlSJ58A9YNavvKLaz1252&index=3
 
 36. Medium, Curse of Batch Normalization, https://towardsdatascience.com/curse-of-batch-normalization-8e6dd20bc304 ,Unstable when using small batch sizes. Leads to increased training time. Different results in training and inference(worse, due to smaller batch size). Not good for online learning. 
+
+37. Medium, New State of the Art AI Optimizer: Rectified Adam (RAdam). Improve your AI accuracy instantly versus Adam, and why it works. https://lessw.medium.com/new-state-of-the-art-ai-optimizer-rectified-adam-radam-5d854730807b ,GitHub Repo: https://github.com/LiyuanLucasLiu/RAdam
+
+38. Medium, We Don’t Need To Worry About Overfitting Anymore, https://pub.towardsai.net/we-dont-need-to-worry-about-overfitting-anymore-9fb31a154c81 ,a new optimizer, Sharpness Awareness Minimization(SAM), better generalization, focus on seeking parameters that lie in neighbourhoods having uniformly low loss value(rather than parameters that only themselves have low loss value), GitHub: https://github.com/google-research/sam
