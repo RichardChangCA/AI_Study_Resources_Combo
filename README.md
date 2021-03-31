@@ -48,4 +48,6 @@
 
 24. PyTorch: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/PyTorch.md
 
+25. Water Quality Prediction: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/water_quality_prediction.md
+
 <b>continue to update...
