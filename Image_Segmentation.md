@@ -61,3 +61,5 @@ SegNet: A deep convolutional encoder-decoder architecture for image segmentation
 15. Medium, Anomaly detection in brightfield microscopy images, https://medium.com/@kerimov.nurlan/anomaly-detection-in-brightfield-microscopy-images-c92cdddafcc3 ,anomalies(noises) have a negative impact on microscopy images(mitotic cells counting and cells position prediction, for medical diagnosis), Mask R-CNN, VGG Image Annotator(VIA) to alleviate the pain of manual annotations
 
 16. Medium, Volumetric Medical Image Segmentation with Vox2Vox, https://towardsdatascience.com/volumetric-medical-image-segmentation-with-vox2vox-f5350ed2094f ,combine UNet with Pix2pix(GANs) with 3D version, clear with the inputs and outputs of brain tumor segmentation(BrainTS) challenge.
+
+17. Medium, Integrating Deep Learning with GIS, https://medium.com/geoai/integrating-deep-learning-with-gis-70e7c5aa9dfe ,satellite map segmentation, land cover segentation.
