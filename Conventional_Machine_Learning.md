@@ -17,3 +17,7 @@
 9. Medium, A Visual Guide to Gradient Boosted Trees (XGBoost), https://towardsdatascience.com/a-visual-guide-to-gradient-boosted-trees-8d9ed578b33 ,Boosting combines weak learners(usually decision trees with only one split, called decision stumps) sequentially, so that each new tree corrects the errors of the previous one. 
 
 10. Optuna, an automatic hyperparameter optimization software framework, particularly designed for machine learning. https://github.com/optuna/optuna
+
+11. Medium, Train multiple Time Series Forecasting Models in one line of Python Code, https://towardsdatascience.com/train-multiple-time-series-forecasting-models-in-one-line-of-python-code-615f2253b67a ,Auto-TS
+
+12. Medium, Time Series Forecasting with PyCaret Regression Module, https://towardsdatascience.com/time-series-forecasting-with-pycaret-regression-module-237b703a0c63 , Conventional Machine Learning algorithms demo
