@@ -50,4 +50,6 @@
 
 25. Water Quality Prediction: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/water_quality_prediction.md
 
+26. Medical Image Analysis: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Medical_Image_Analysis.md
+
 <b>continue to update...
