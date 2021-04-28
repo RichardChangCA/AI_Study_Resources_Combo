@@ -269,3 +269,5 @@ Dataset, MICCAI, semi-supervised learning dataset(labeled with unlabeled data), 
 108. 2020, BB-UNet: U-Net with Bounding Box Prior, https://hal-normandie-univ.archives-ouvertes.fr/hal-02863197/document ,integrates location as well as shape prior onto model training. semi-weakly supervised methods, semi: part of well-annotated ground truth, weakly: bounding boxes. 
 
 109. 2018, Image Transformer, https://arxiv.org/pdf/1802.05751.pdf ,for image generation task. Use local self-attention scale(1D local attention or 2D local attention).
+
+110. 2020 ICMLA, Weakly Supervised Fine Tuning Approach for BrainTumor Segmentation Problem ,https://www.researchgate.net/publication/337050362_Weakly_Supervised_Fine_Tuning_Approach_for_Brain_Tumor_Segmentation_Problem ,simultaneous  usage of both pixel- and image-level annotations in MRI images to learn a segmentation model for brain tumor.Fully-supervised training first, and then MIL fine tuning with weak labels.
