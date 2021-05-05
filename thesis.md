@@ -3,3 +3,5 @@
 新闻: 缺乏训练样本医疗AI“喂不饱”？腾讯优图实验室想了两个办法, https://vcbeat.top/42141 ,迁移学习与对抗训练数据增广
 
 医疗影像数据集列表: https://github.com/linhandev/dataset
+
+Semi-Supervised Learning(book pdf version): http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf
