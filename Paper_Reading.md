@@ -295,3 +295,5 @@ Dataset, MICCAI, semi-supervised learning dataset(labeled with unlabeled data), 
 121. 2020, Brain tumor classification in MRI image using convolutional neural network, file:///tmp/mozilla_lingfeng0/10.3934_mbe.2020328.pdf ,VGG16, ResNet50, InceptionV3, transfer learning
 
 122. 2020 Machine Learning with Applications, A Transfer Learning approach for AI-based classification of brain tumors, https://www.sciencedirect.com/science/article/pii/S2666827020300037 ,AlexNet, GoogleNet, ResNet, SqueezeNet, transfer learning
+
+123. 2020 IEEE Transactions on Medical Imaging, Semi-supervised Medical Image Classification with Relation-driven Self-ensembling Model, https://arxiv.org/pdf/2005.07377.pdf ,relation-driven semi-supervised framework for medical image classification, It is a consistencybased method which exploits the unlabeled data by encouraging the prediction consistency of given input under perturbations, and leverages a self-ensembling model to produce high-quality consistency targets for the unlabeled data. 
