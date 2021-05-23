@@ -91,3 +91,6 @@ SegNet: does not have any skip connections, no learnable parameters are used for
 38. Medium, We Don’t Need To Worry About Overfitting Anymore, https://pub.towardsai.net/we-dont-need-to-worry-about-overfitting-anymore-9fb31a154c81 ,a new optimizer, Sharpness Awareness Minimization(SAM), better generalization, focus on seeking parameters that lie in neighbourhoods having uniformly low loss value(rather than parameters that only themselves have low loss value), GitHub: https://github.com/google-research/sam
 
 39. Medium, Deep Learning — Deep Belief Network (DBN), https://medium.datadriveninvestor.com/deep-learning-deep-belief-network-dbn-ab715b5b8afc ,DBN is an unsupervised probabilistic deep learning algorithm. Back propagation is fine-tuning step, so it is suitable for the dataset with relatively few labeled data.
+
+40. Youtube. Knowledge Distillation, https://www.youtube.com/watch?v=lSjBc1wSJMI
+
