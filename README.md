@@ -52,4 +52,6 @@
 
 26. Medical Image Analysis: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Medical_Image_Analysis.md
 
+27. Power BI: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Power_BI.md
+
 <b>continue to update...
