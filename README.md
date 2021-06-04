@@ -54,4 +54,6 @@
 
 27. Power BI: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Power_BI.md
 
+28. Microsoft Azure: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/MS_Azure.md
+
 <b>continue to update...
