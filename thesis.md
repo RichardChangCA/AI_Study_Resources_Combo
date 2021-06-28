@@ -5,3 +5,17 @@
 医疗影像数据集列表: https://github.com/linhandev/dataset
 
 Semi-Supervised Learning(book pdf version): http://www.acad.bg/ebook/ml/MITPress-%20SemiSupervised%20Learning.pdf
+
+cat: Computational Anatomy Toolbox, http://www.neuro.uni-jena.de/cat12-html/cat.html ,MATLAB version, covers diverse morphometric methods such as voxel-based morphometry (VBM), surface-based morphometry (SBM), deformation-based morphometry (DBM), and ROI- or label-based morphometry. 
+
+Nipype: Neuroimaging in Python Pipelines and Interfaces. Interfaces.brainsuite.brainsuite. https://nipype.readthedocs.io/en/0.12.0/interfaces/generated/nipype.interfaces.brainsuite.brainsuite.html ,.nii format for skull stripping
+
+BrainSuite Software: skull-stripping http://brainsuite.org/processing/surfaceextraction/bse/ generate brain area mask, remove neck and other muscles
+
+Simple Skull Stripping Method: http://campar.in.tum.de/Students/DaSimpleSkullStrippingTool automated skull stripping method robust against brain diseases alternations such as resection cavity and/or brain lesions, applied for different imaging modalities.
+
+BET (Brain Extraction Tool) deletes non-brain tissue from an image of the whole head. http://poc.vl-e.nl/distribution/manual/fsl-3.2/bet/index.html ,
+
+Papers with code skull stripping: https://paperswithcode.com/task/skull-stripping
+
+DeepBrain package: https://pypi.org/project/deepbrain/ ,Extract brain tissue from T1 Brain MRI (i.e skull stripping). GitHub Link: https://github.com/iitzco/deepbrain
