@@ -19,3 +19,11 @@ BET (Brain Extraction Tool) deletes non-brain tissue from an image of the whole 
 Papers with code skull stripping: https://paperswithcode.com/task/skull-stripping
 
 DeepBrain package: https://pypi.org/project/deepbrain/ ,Extract brain tissue from T1 Brain MRI (i.e skull stripping). GitHub Link: https://github.com/iitzco/deepbrain
+
+Medical Image Data Preprocessing: 
+
+  1. stack overflow, How to normalize image data in numpy array, https://stackoverflow.com/questions/42460217/how-to-normalize-a-4d-numpy-array
+
+  2. Machine Learning Mastery, How to Manually Scale Image Pixel Data for Deep Learning, https://machinelearningmastery.com/how-to-manually-scale-image-pixel-data-for-deep-learning/ ,per image, per batch, whole dataset. per channel, all channels. Keep mean & std and use them into test data, or into new task data during transfer learning.
+
+  3. Keras tutorial: 3D image classification from CT scans, https://keras.io/examples/vision/3D_image_classification/ ,normalize each 3D data with their pre-defined min and max
