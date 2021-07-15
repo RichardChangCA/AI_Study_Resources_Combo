@@ -325,3 +325,5 @@ Dataset, MICCAI, semi-supervised learning dataset(labeled with unlabeled data), 
 136. 2018 ECCV, Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection, https://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhu_Bi-directional_Feature_Pyramid_ECCV_2018_paper.pdf
 
 137. 2019 CVPR, Dual Attention Network for Scene Segmentation, https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf ,position attention and channel attention
+
+138. 2020, Enhancing U-Net with Spatial-Channel Attention Gate for Abnormal Tissue Segmentation in Medical Imaging, file:///Users/zhanglingfeng/Downloads/applsci-10-05729%20(1).pdf ,spatial-channel attention gate
