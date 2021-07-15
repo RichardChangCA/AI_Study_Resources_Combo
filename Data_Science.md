@@ -227,3 +227,5 @@ Fuzzy logic or max(A,B)
 87. Medium, A Mathematical Explanation of AdaBoost in 5 Minutes, https://towardsdatascience.com/a-mathematical-explanation-of-adaboost-4b0c20ce4382 ,AdaBoost creates a forest of stumps rather than trees. The stumps that are created are not equally weighted in the final decision. The order in which the stumps are made is important, because each stump aims to reduce the errors that the previous stumps made. 
 
 88. https://github.com/reymond-group/tmap fast visualization for dataset
+
+89. Youtube, Python for Bioinformatics - Drug Discovery Using Machine Learning and Data Analysis, https://www.youtube.com/watch?v=jBlTQjcKuaY&list=WL&index=2&t=9s
