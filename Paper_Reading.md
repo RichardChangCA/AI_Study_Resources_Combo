@@ -319,3 +319,9 @@ Dataset, MICCAI, semi-supervised learning dataset(labeled with unlabeled data), 
 133. 2021, TMD-Unet: Triple-Unet with Multi-Scale Input Features and Dense Skip Connection for Medical Image Segmentation, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7825313/ ,modifying the node structure, each node consists of three densely connected convolution units based on a dense structure. 
 
 134. 2018, Ensemble of Fully Convolutional Neural Network for Brain Tumor Segmentation from Magnetic Resonance Images, https://link.springer.com/chapter/10.1007/978-3-030-11726-9_43 ,As a part of pre-processing, the volumes were normalized to have zero mean and unit standard deviation. Patch extraction: The class imbalance among the various classes in the data was addressed by extracting relatively more number of patches from lesser frequent classes. While the learning rate was initialized to 0.0001 and decayed by a factor of 10% every-time the validation loss plateaued. 
+
+135. IJCAI 2018, Tri-net for Semi-Supervised Deep Learn, https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/ijcai18trinet.pdf ,Classification task. With three modules, if two modules agree on the prediction of the unlabeled instance from the pool and the prediction is confident and stable, the two modules will teach the third module on this instance. incorrect pseudo-labels will degenerate the performance. use dropout working in train mode to measure the stability of the pseudo-labeled data. 
+
+136. 2018 ECCV, Bidirectional Feature Pyramid Network with Recurrent Attention Residual Modules for Shadow Detection, https://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhu_Bi-directional_Feature_Pyramid_ECCV_2018_paper.pdf
+
+137. 2019 CVPR, Dual Attention Network for Scene Segmentation, https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf ,position attention and channel attention
