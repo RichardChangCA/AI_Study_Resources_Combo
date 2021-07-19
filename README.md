@@ -56,4 +56,6 @@
 
 28. Microsoft Azure: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/MS_Azure.md
 
+29. Bioinformatics: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Bioinformatics.md
+
 <b>continue to update...
