@@ -45,3 +45,5 @@
 23. Medium, How To Run a Python Script Using a Docker Container, https://towardsdatascience.com/how-to-run-a-python-script-using-a-docker-container-ea248e618e32
 
 24. cProfile: A profile is a set of statistics that describes how often and for how long various parts of the program executed. https://docs.python.org/3/library/profile.html
+
+25. Python Send Emails: https://realpython.com/python-send-email/
