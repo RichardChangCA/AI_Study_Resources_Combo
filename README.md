@@ -58,4 +58,6 @@
 
 29. Bioinformatics: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Bioinformatics.md
 
+30. Transformer: https://github.com/RichardChangCA/AI_Study_Resources_Combo/blob/master/Transformer.md
+
 <b>continue to update...
